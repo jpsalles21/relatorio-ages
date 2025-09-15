@@ -1,0 +1,60 @@
+\section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
+
+\subsection{Repositório do Código Fonte do Projeto}
+  Os repositório foram divididos entre web-medico, web-site, web-administrador,
+api-medico, api-administrador, auth, infra e wiki.
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{web-site}
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{web-medico}
+\par Repositório para  o \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{web-administrador}
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{api-medico}{}
+\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{auth}
+\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/infra}{infra}
+\par Repositório para wiki: \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{wiki}
+
+\subsection{Banco de Dados Utilizado}
+No Banco de Dados, optamos por utilizar o PostgresSQL pela sua robustez.
+Entidades do projeto
+Paciente: Armazena as informações pertinentes ao projeto do paciente
+Medico: Armazena as informações pertinentes ao projeto do médico.
+Area: Armazena as subareas da qual pertencem os estudos.
+Resposta: Armazena a resposta de um paciente sobre um determinado critério.
+Estudo: Armazena informações de estudos e os critérios pertencentes através da entidade CritérioEstudo.
+Criterio: Armazena a pergunta sobre um critério.
+CriterioEstudo: Armazena os dados sobre um critério referente a um determinado estudo, como resposta esperada por ele, se é um critério opcional e relaciona o critério ao estudo.`
+
+\subsection{Arquitetura Utilizada}
+ No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
+de design de software que divide o sistema em três partes principais:
+Domínio: o coração do sistema, onde estão as regras de negócio e entidades
+importantes. Aplicação: coordena as ações do sistema e lida com interações entre o
+domínio e o mundo externo. Adaptadores: conecta o sistema ao mundo externo,
+permitindo interações sem que o domínio precise saber dos detalhes técnicos.
+No frontend, utilizamos o núcleo/core e seus submódulos, como core/domain para
+definir as entidades principais da aplicação, como usuários e médicos. O
+core/useCases é essencial para dividir a lógica de negócios em casos de uso
+13
+comuns e específicos para diferentes tipos de usuários, enquanto o
+adapters/presenter nos ajuda a adaptar os dados da lógica de negócios para a
+interface do usuário. Os frameworks/ui são vitais para organizar os componentes e
+páginas da interface do usuário, enquanto os frameworks/services facilitam a
+comunicação com APIs externas. Por fim, os utils são úteis para funções utilitárias,
+como autenticação e verificação do tipo de usuário
+
+\subsection{Protótipos das Telas Desenvolvidas}
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo no Figma}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/figma2.png}
+    Fonte: figma do projeto
+    \label{fig:projeto-time}
+\end{figure}
+
+\subsection{Tecnologias Utilizadas}
+  No backend, estamos utilizando Java 21 \cite{java} com o framework Spring Boot \cite{springboot}, além
+do JUnit para testes, pois, a maioria do grupo era familiarizado com a linguagem, o
+que facilitaria e aumentaria a velocidade e a qualidade do projeto. No frontend
+optamos por utilizar a biblioteca React, com TypeScript e o framework Next. Para o
+frontend, utilizo o Postman \cite{postman} para testar as APIs antes de alguma integração.
+  
+  

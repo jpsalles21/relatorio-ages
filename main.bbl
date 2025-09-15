@@ -1,0 +1,377 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{docker}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6f3d214228cc5933c1a82019f7dc0e0}{%
+           family={{Docker, Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{fullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{bibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorbibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authornamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorfullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{Docker: Empowering App Development for Developers}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.docker.com/
+      \endverb
+      \verb{url}
+      \verb https://www.docker.com/
+      \endverb
+    \endentry
+    \entry{react}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d85544fce402c7a2a96a48078edaf203}{%
+           family={{Facebook}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{fullhash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{bibnamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authorbibnamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authornamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authorfullhash}{d85544fce402c7a2a96a48078edaf203}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{React}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://reactjs.org/
+      \endverb
+      \verb{url}
+      \verb https://reactjs.org/
+      \endverb
+    \endentry
+    \entry{reactnative}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d85544fce402c7a2a96a48078edaf203}{%
+           family={{Facebook}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{fullhash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{bibnamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authorbibnamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authornamehash}{d85544fce402c7a2a96a48078edaf203}
+      \strng{authorfullhash}{d85544fce402c7a2a96a48078edaf203}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{React Native}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://reactnative.dev/
+      \endverb
+      \verb{url}
+      \verb https://reactnative.dev/
+      \endverb
+    \endentry
+    \entry{java}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a798529b7edde2afc14297cab558b16}{%
+           family={Gosling},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{2a798529b7edde2afc14297cab558b16}
+      \strng{fullhash}{2a798529b7edde2afc14297cab558b16}
+      \strng{bibnamehash}{2a798529b7edde2afc14297cab558b16}
+      \strng{authorbibnamehash}{2a798529b7edde2afc14297cab558b16}
+      \strng{authornamehash}{2a798529b7edde2afc14297cab558b16}
+      \strng{authorfullhash}{2a798529b7edde2afc14297cab558b16}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{isbn}{0133260224}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{The Java Language Specification}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://docs.oracle.com/javase/specs/jls/se8/html/
+      \endverb
+      \verb{url}
+      \verb https://docs.oracle.com/javase/specs/jls/se8/html/
+      \endverb
+    \endentry
+    \entry{materialui}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40b4d1d6cd3218610b53c2b6953f9c5e}{%
+           family={{Material-UI Team}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \strng{fullhash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \strng{bibnamehash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \strng{authorbibnamehash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \strng{authornamehash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \strng{authorfullhash}{40b4d1d6cd3218610b53c2b6953f9c5e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{Material-UI}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://mui.com/
+      \endverb
+      \verb{url}
+      \verb https://mui.com/
+      \endverb
+    \endentry
+    \entry{typescript}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{TypeScript: JavaScript with syntax for types.}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.typescriptlang.org/
+      \endverb
+      \verb{url}
+      \verb https://www.typescriptlang.org/
+      \endverb
+    \endentry
+    \entry{mongodb}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad43b4c617def33deb8f50973cbf20d1}{%
+           family={{MongoDB, Inc.}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad43b4c617def33deb8f50973cbf20d1}
+      \strng{fullhash}{ad43b4c617def33deb8f50973cbf20d1}
+      \strng{bibnamehash}{ad43b4c617def33deb8f50973cbf20d1}
+      \strng{authorbibnamehash}{ad43b4c617def33deb8f50973cbf20d1}
+      \strng{authornamehash}{ad43b4c617def33deb8f50973cbf20d1}
+      \strng{authorfullhash}{ad43b4c617def33deb8f50973cbf20d1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em: 14/09/2025}
+      \field{title}{MongoDB: The Developer Data Platform}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/
+      \endverb
+    \endentry
+    \entry{springboot}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b961ed547c12a50d02d8b0ec3fede830}{%
+           family={{Pivotal Software}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b961ed547c12a50d02d8b0ec3fede830}
+      \strng{fullhash}{b961ed547c12a50d02d8b0ec3fede830}
+      \strng{bibnamehash}{b961ed547c12a50d02d8b0ec3fede830}
+      \strng{authorbibnamehash}{b961ed547c12a50d02d8b0ec3fede830}
+      \strng{authornamehash}{b961ed547c12a50d02d8b0ec3fede830}
+      \strng{authorfullhash}{b961ed547c12a50d02d8b0ec3fede830}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{Spring Boot}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://spring.io/projects/spring-boot
+      \endverb
+      \verb{url}
+      \verb https://spring.io/projects/spring-boot
+      \endverb
+    \endentry
+    \entry{postgresql}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36423acfb135ffe286ea438eafcb0bc6}{%
+           family={{PostgreSQL Global Development Group}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{fullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{bibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorbibnamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authornamehash}{36423acfb135ffe286ea438eafcb0bc6}
+      \strng{authorfullhash}{36423acfb135ffe286ea438eafcb0bc6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acessado em: 14/09/2025}
+      \field{title}{PostgreSQL: The World's Most Advanced Open Source Relational Database}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/
+      \endverb
+    \endentry
+    \entry{postman}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f061e1cad5e2783cea0b2976ed2f4c3}{%
+           family={{Postman}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{fullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{bibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorbibnamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authornamehash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \strng{authorfullhash}{6f061e1cad5e2783cea0b2976ed2f4c3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{Postman}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.postman.com/
+      \endverb
+      \verb{url}
+      \verb https://www.postman.com/
+      \endverb
+    \endentry
+    \entry{css}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66c3509f57565d7fbe270a57a403004c}{%
+           family={{World Wide Web Consortium (W3C)}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{fullhash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{bibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorbibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authornamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorfullhash}{66c3509f57565d7fbe270a57a403004c}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{CSS: Cascading Style Sheets}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.w3.org/Style/CSS/Overview.en.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/Style/CSS/Overview.en.html
+      \endverb
+    \endentry
+    \entry{html}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66c3509f57565d7fbe270a57a403004c}{%
+           family={{World Wide Web Consortium (W3C)}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{fullhash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{bibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorbibnamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authornamehash}{66c3509f57565d7fbe270a57a403004c}
+      \strng{authorfullhash}{66c3509f57565d7fbe270a57a403004c}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 05/07/2024}
+      \field{title}{HTML: HyperText Markup Language}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://html.spec.whatwg.org/multipage/
+      \endverb
+      \verb{url}
+      \verb https://html.spec.whatwg.org/multipage/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

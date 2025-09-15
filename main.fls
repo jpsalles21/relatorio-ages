@@ -1,0 +1,778 @@
+PWD c:\Users\salle\Downloads\AGES_relatorio
+INPUT C:\Users\salle\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\salle\Downloads\AGES_relatorio\main.tex
+OUTPUT main.log
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\abntex2\abntex2.cls
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\abntex2\abntex2.cls
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\memoir.cls
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\memoir.cls
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\mem12.clo
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\mem12.clo
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\mem12.clo
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\delarray.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\delarray.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\shortvrb.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\shortvrb.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazil.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazil.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazil.ldf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT .\util\style.tex
+INPUT .\util\style.tex
+INPUT util\style.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\acronym\acronym.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\acronym\acronym.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+INPUT .\conteudo\0 - pre\0.1 - capa.aux
+INPUT .\conteudo\0 - pre\0.1 - capa.aux
+INPUT conteudo\0 - pre\0.1 - capa.aux
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT .\conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.5 - resumo.aux
+INPUT conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.7 - tabelas.aux
+INPUT .\conteudo\0 - pre\0.7 - tabelas.aux
+INPUT conteudo\0 - pre\0.7 - tabelas.aux
+INPUT .\conteudo\0 - pre\0.8 - siglas.aux
+INPUT .\conteudo\0 - pre\0.8 - siglas.aux
+INPUT conteudo\0 - pre\0.8 - siglas.aux
+INPUT .\conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\0 - pre\0.9 - sumario.aux
+INPUT conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\2 - ages I\index.aux
+INPUT .\conteudo\2 - ages I\index.aux
+INPUT conteudo\2 - ages I\index.aux
+INPUT .\conteudo\3 - ages II\index.aux
+INPUT .\conteudo\3 - ages II\index.aux
+INPUT conteudo\3 - ages II\index.aux
+INPUT .\conteudo\4 - ages III\index.aux
+INPUT .\conteudo\4 - ages III\index.aux
+INPUT conteudo\4 - ages III\index.aux
+INPUT .\conteudo\5 - ages IV\index.aux
+INPUT .\conteudo\5 - ages IV\index.aux
+INPUT conteudo\5 - ages IV\index.aux
+INPUT .\conteudo\6 - consideracoes\consideracoes.aux
+INPUT .\conteudo\6 - consideracoes\consideracoes.aux
+INPUT conteudo\6 - consideracoes\consideracoes.aux
+INPUT .\conteudo\7 - pos\referencias.aux
+INPUT .\conteudo\7 - pos\referencias.aux
+INPUT conteudo\7 - pos\referencias.aux
+INPUT .\conteudo\8 - apendices\apendices.aux
+INPUT .\conteudo\8 - apendices\apendices.aux
+INPUT conteudo\8 - apendices\apendices.aux
+OUTPUT main.aux
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+OUTPUT main.pdf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT .\conteudo\0 - pre\0.1 - capa.tex
+OUTPUT conteudo\0 - pre\0.1 - capa.aux
+INPUT .\conteudo\0 - pre\0.1 - capa.tex
+INPUT .\conteudo\0 - pre\0.1 - capa.tex
+INPUT .\conteudo\0 - pre\0.1 - capa.tex
+INPUT conteudo\0 - pre\0.1 - capa.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT C:\Users\salle\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.tex
+OUTPUT conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.tex
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.tex
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.tex
+INPUT conteudo\0 - pre\0.2 - dedicatoria.tex
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.tex
+OUTPUT conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.tex
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.tex
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.tex
+INPUT conteudo\0 - pre\0.3 - agradecimentos.tex
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.tex
+OUTPUT conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.tex
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.tex
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.tex
+INPUT conteudo\0 - pre\0.4 - epigrafe.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8t.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvro8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvro8r.tfm
+INPUT .\conteudo\0 - pre\0.5 - resumo.tex
+OUTPUT conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.5 - resumo.tex
+INPUT .\conteudo\0 - pre\0.5 - resumo.tex
+INPUT .\conteudo\0 - pre\0.5 - resumo.tex
+INPUT conteudo\0 - pre\0.5 - resumo.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+OUTPUT conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT conteudo\0 - pre\0.6 - ilustracoes.tex
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
+INPUT .\conteudo\0 - pre\0.7 - tabelas.tex
+OUTPUT conteudo\0 - pre\0.7 - tabelas.aux
+INPUT .\conteudo\0 - pre\0.7 - tabelas.tex
+INPUT .\conteudo\0 - pre\0.7 - tabelas.tex
+INPUT .\conteudo\0 - pre\0.7 - tabelas.tex
+INPUT conteudo\0 - pre\0.7 - tabelas.tex
+INPUT .\main.lot
+INPUT .\main.lot
+INPUT main.lot
+INPUT .\conteudo\0 - pre\0.8 - siglas.tex
+OUTPUT conteudo\0 - pre\0.8 - siglas.aux
+INPUT .\conteudo\0 - pre\0.8 - siglas.tex
+INPUT .\conteudo\0 - pre\0.8 - siglas.tex
+INPUT .\conteudo\0 - pre\0.8 - siglas.tex
+INPUT conteudo\0 - pre\0.8 - siglas.tex
+INPUT .\conteudo\0 - pre\0.9 - sumario.tex
+OUTPUT conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\0 - pre\0.9 - sumario.tex
+INPUT .\conteudo\0 - pre\0.9 - sumario.tex
+INPUT .\conteudo\0 - pre\0.9 - sumario.tex
+INPUT conteudo\0 - pre\0.9 - sumario.tex
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+OUTPUT conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT .\conteudo\1 - apresentacao\apresentacao.tex
+INPUT conteudo\1 - apresentacao\apresentacao.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT .\conteudo\2 - ages I\index.tex
+INPUT .\conteudo\2 - ages I\index.tex
+OUTPUT conteudo\2 - ages I\index.aux
+INPUT .\conteudo\2 - ages I\index.tex
+INPUT .\conteudo\2 - ages I\index.tex
+INPUT conteudo\2 - ages I\index.tex
+INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
+INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
+INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
+INPUT .\conteudo\2 - ages I\conteudo\1 - introducao.tex
+INPUT conteudo\2 - ages I\conteudo\1 - introducao.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\\2 - ages I\\conteudo\\figures\fototime.jpg
+INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
+INPUT conteudo\2 - ages I\conteudo\2 - desenvolvimento.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\figures\figma1.png
+INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
+INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
+INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
+INPUT .\conteudo\2 - ages I\conteudo\3 - atividades.tex
+INPUT conteudo\2 - ages I\conteudo\3 - atividades.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
+INPUT conteudo\2 - ages I\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT conteudo\2 - ages I\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 2.tex
+INPUT conteudo\2 - ages I\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 3.tex
+INPUT conteudo\2 - ages I\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\2 - ages I\conteudo\sprints\sprint 4.tex
+INPUT conteudo\2 - ages I\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT conteudo\2 - ages I\conteudo\4 - conclusao.tex
+INPUT .\conteudo\3 - ages II\index.tex
+INPUT .\conteudo\3 - ages II\index.tex
+OUTPUT conteudo\3 - ages II\index.aux
+INPUT .\conteudo\3 - ages II\index.tex
+INPUT .\conteudo\3 - ages II\index.tex
+INPUT conteudo\3 - ages II\index.tex
+INPUT .\conteudo\3 - ages II\conteudo\1 - introducao.tex
+INPUT .\conteudo\3 - ages II\conteudo\1 - introducao.tex
+INPUT .\conteudo\3 - ages II\conteudo\1 - introducao.tex
+INPUT .\conteudo\3 - ages II\conteudo\1 - introducao.tex
+INPUT conteudo\3 - ages II\conteudo\1 - introducao.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1phv.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8c.tfm
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\figures\fototime.jpg
+INPUT .\conteudo\3 - ages II\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\3 - ages II\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\3 - ages II\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\3 - ages II\conteudo\2 - desenvolvimento.tex
+INPUT conteudo\3 - ages II\conteudo\2 - desenvolvimento.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvr8c.vf
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\figures\figma2.png
+INPUT .\conteudo\3 - ages II\conteudo\3 - atividades.tex
+INPUT .\conteudo\3 - ages II\conteudo\3 - atividades.tex
+INPUT .\conteudo\3 - ages II\conteudo\3 - atividades.tex
+INPUT .\conteudo\3 - ages II\conteudo\3 - atividades.tex
+INPUT conteudo\3 - ages II\conteudo\3 - atividades.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 0.tex
+INPUT conteudo\3 - ages II\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 1.tex
+INPUT conteudo\3 - ages II\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 2.tex
+INPUT conteudo\3 - ages II\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 3.tex
+INPUT conteudo\3 - ages II\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\3 - ages II\conteudo\sprints\sprint 4.tex
+INPUT conteudo\3 - ages II\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\3 - ages II\conteudo\4 - conclusao.tex
+INPUT .\conteudo\3 - ages II\conteudo\4 - conclusao.tex
+INPUT .\conteudo\3 - ages II\conteudo\4 - conclusao.tex
+INPUT .\conteudo\3 - ages II\conteudo\4 - conclusao.tex
+INPUT conteudo\3 - ages II\conteudo\4 - conclusao.tex
+INPUT .\conteudo\4 - ages III\index.tex
+INPUT .\conteudo\4 - ages III\index.tex
+OUTPUT conteudo\4 - ages III\index.aux
+INPUT .\conteudo\4 - ages III\index.tex
+INPUT .\conteudo\4 - ages III\index.tex
+INPUT conteudo\4 - ages III\index.tex
+INPUT .\conteudo\4 - ages III\conteudo\1 - introducao.tex
+INPUT .\conteudo\4 - ages III\conteudo\1 - introducao.tex
+INPUT .\conteudo\4 - ages III\conteudo\1 - introducao.tex
+INPUT .\conteudo\4 - ages III\conteudo\1 - introducao.tex
+INPUT conteudo\4 - ages III\conteudo\1 - introducao.tex
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\EquipeSeDoceFosse.jpg
+INPUT .\conteudo\4 - ages III\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\4 - ages III\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\4 - ages III\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\4 - ages III\conteudo\2 - desenvolvimento.tex
+INPUT conteudo\4 - ages III\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\figures\FigmaAgesIII.jpg
+INPUT .\conteudo\4 - ages III\conteudo\3 - atividades.tex
+INPUT .\conteudo\4 - ages III\conteudo\3 - atividades.tex
+INPUT .\conteudo\4 - ages III\conteudo\3 - atividades.tex
+INPUT .\conteudo\4 - ages III\conteudo\3 - atividades.tex
+INPUT conteudo\4 - ages III\conteudo\3 - atividades.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 0.tex
+INPUT conteudo\4 - ages III\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 1.tex
+INPUT conteudo\4 - ages III\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 2.tex
+INPUT conteudo\4 - ages III\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 3.tex
+INPUT conteudo\4 - ages III\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\4 - ages III\conteudo\sprints\sprint 4.tex
+INPUT conteudo\4 - ages III\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\4 - ages III\conteudo\4 - conclusao.tex
+INPUT .\conteudo\4 - ages III\conteudo\4 - conclusao.tex
+INPUT .\conteudo\4 - ages III\conteudo\4 - conclusao.tex
+INPUT .\conteudo\4 - ages III\conteudo\4 - conclusao.tex
+INPUT conteudo\4 - ages III\conteudo\4 - conclusao.tex
+INPUT .\conteudo\5 - ages IV\index.tex
+INPUT .\conteudo\5 - ages IV\index.tex
+OUTPUT conteudo\5 - ages IV\index.aux
+INPUT .\conteudo\5 - ages IV\index.tex
+INPUT .\conteudo\5 - ages IV\index.tex
+INPUT conteudo\5 - ages IV\index.tex
+INPUT .\conteudo\5 - ages IV\conteudo\1 - introducao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\1 - introducao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\1 - introducao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\1 - introducao.tex
+INPUT conteudo\5 - ages IV\conteudo\1 - introducao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\5 - ages IV\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\5 - ages IV\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\5 - ages IV\conteudo\2 - desenvolvimento.tex
+INPUT conteudo\5 - ages IV\conteudo\2 - desenvolvimento.tex
+INPUT .\conteudo\5 - ages IV\conteudo\3 - atividades.tex
+INPUT .\conteudo\5 - ages IV\conteudo\3 - atividades.tex
+INPUT .\conteudo\5 - ages IV\conteudo\3 - atividades.tex
+INPUT .\conteudo\5 - ages IV\conteudo\3 - atividades.tex
+INPUT conteudo\5 - ages IV\conteudo\3 - atividades.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 0.tex
+INPUT conteudo\5 - ages IV\conteudo\sprints\sprint 0.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 1.tex
+INPUT conteudo\5 - ages IV\conteudo\sprints\sprint 1.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 2.tex
+INPUT conteudo\5 - ages IV\conteudo\sprints\sprint 2.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 3.tex
+INPUT conteudo\5 - ages IV\conteudo\sprints\sprint 3.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\5 - ages IV\conteudo\sprints\sprint 4.tex
+INPUT conteudo\5 - ages IV\conteudo\sprints\sprint 4.tex
+INPUT .\conteudo\5 - ages IV\conteudo\4 - conclusao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\4 - conclusao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\4 - conclusao.tex
+INPUT .\conteudo\5 - ages IV\conteudo\4 - conclusao.tex
+INPUT conteudo\5 - ages IV\conteudo\4 - conclusao.tex
+INPUT .\conteudo\6 - consideracoes\consideracoes.tex
+INPUT .\conteudo\6 - consideracoes\consideracoes.tex
+OUTPUT conteudo\6 - consideracoes\consideracoes.aux
+INPUT .\conteudo\6 - consideracoes\consideracoes.tex
+INPUT .\conteudo\6 - consideracoes\consideracoes.tex
+INPUT conteudo\6 - consideracoes\consideracoes.tex
+INPUT .\conteudo\7 - pos\referencias.tex
+INPUT .\conteudo\7 - pos\referencias.tex
+OUTPUT conteudo\7 - pos\referencias.aux
+INPUT .\conteudo\7 - pos\referencias.tex
+INPUT .\conteudo\7 - pos\referencias.tex
+INPUT conteudo\7 - pos\referencias.tex
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT .\conteudo\8 - apendices\apendices.tex
+INPUT .\conteudo\8 - apendices\apendices.tex
+OUTPUT conteudo\8 - apendices\apendices.aux
+INPUT .\conteudo\8 - apendices\apendices.tex
+INPUT .\conteudo\8 - apendices\apendices.tex
+INPUT conteudo\8 - apendices\apendices.tex
+OUTPUT main.lof
+OUTPUT main.lot
+OUTPUT main.toc
+INPUT main.aux
+INPUT .\conteudo\0 - pre\0.1 - capa.aux
+INPUT .\conteudo\0 - pre\0.1 - capa.aux
+INPUT conteudo\0 - pre\0.1 - capa.aux
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT .\conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT conteudo\0 - pre\0.2 - dedicatoria.aux
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT .\conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT conteudo\0 - pre\0.3 - agradecimentos.aux
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT .\conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT conteudo\0 - pre\0.4 - epigrafe.aux
+INPUT .\conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.5 - resumo.aux
+INPUT conteudo\0 - pre\0.5 - resumo.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT conteudo\0 - pre\0.6 - ilustracoes.aux
+INPUT .\conteudo\0 - pre\0.7 - tabelas.aux
+INPUT .\conteudo\0 - pre\0.7 - tabelas.aux
+INPUT conteudo\0 - pre\0.7 - tabelas.aux
+INPUT .\conteudo\0 - pre\0.8 - siglas.aux
+INPUT .\conteudo\0 - pre\0.8 - siglas.aux
+INPUT conteudo\0 - pre\0.8 - siglas.aux
+INPUT .\conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\0 - pre\0.9 - sumario.aux
+INPUT conteudo\0 - pre\0.9 - sumario.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\1 - apresentacao\apresentacao.aux
+INPUT conteudo\1 - apresentacao\apresentacao.aux
+INPUT .\conteudo\2 - ages I\index.aux
+INPUT .\conteudo\2 - ages I\index.aux
+INPUT conteudo\2 - ages I\index.aux
+INPUT .\conteudo\3 - ages II\index.aux
+INPUT .\conteudo\3 - ages II\index.aux
+INPUT conteudo\3 - ages II\index.aux
+INPUT .\conteudo\4 - ages III\index.aux
+INPUT .\conteudo\4 - ages III\index.aux
+INPUT conteudo\4 - ages III\index.aux
+INPUT .\conteudo\5 - ages IV\index.aux
+INPUT .\conteudo\5 - ages IV\index.aux
+INPUT conteudo\5 - ages IV\index.aux
+INPUT .\conteudo\6 - consideracoes\consideracoes.aux
+INPUT .\conteudo\6 - consideracoes\consideracoes.aux
+INPUT conteudo\6 - consideracoes\consideracoes.aux
+INPUT .\conteudo\7 - pos\referencias.aux
+INPUT .\conteudo\7 - pos\referencias.aux
+INPUT conteudo\7 - pos\referencias.aux
+INPUT .\conteudo\8 - apendices\apendices.aux
+INPUT .\conteudo\8 - apendices\apendices.aux
+INPUT conteudo\8 - apendices\apendices.aux
+INPUT main.run.xml
+OUTPUT main.run.xml
+INPUT C:\Users\salle\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\salle\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb
+INPUT C:\Users\salle\AppData\Local\Programs\MiKTeX\fonts\type1\urw\helvetic\uhvro8a.pfb
