@@ -1,3 +1,12 @@
 \subsection{Sprint 2}
 
-No mínimo uma página contendo tudo que o aluno fez na Sprint 2.
+Na Sprint 2, foquei em desimpedir os AGES I e os AGES II e em começar a implementar soluções que facilitassem as próximas etapas do projeto. Logo no começo identifiquei os principais pontos de bloqueio no frontend e passei a orientar os colegas de forma assíncrona e direta, respondendo dúvidas no Discord e revisando trechos de código quando necessário. Paralelamente, comecei a levantar opções de deploy e participei das discussões iniciais sobre a arquitetura na AWS para que as decisões de infraestrutura não atrasassem as entregas.
+
+Uma das frentes centrais foi a implementação da autenticação no frontend. Trabalhei na proteção de rotas e criei mecanismos de segurança para a área de ADMIN. Além disso, padronizei as chamadas para a API, estabelecendo convenções que tornaram as integrações mais previsíveis e fáceis de entender para os integrantes menos experientes. Essas padronizações foram documentadas de forma simples para servir como referência e reduziram dúvidas recorrentes durante a sprint.
+
+Durante a sprint ajudei efetivamente os AGES I e AGES II em suas tasks no frontend. Desta vez dediquei mais tempo à assistência assíncrona, mas ainda assim consegui transferir conhecimento e orientar boas práticas. Também contribuí na definição de diretrizes iniciais para o deploy na AWS, alinhando expectativas com o time e apontando os caminhos a seguir.
+
+Enfrentei problemas ao proteger algumas rotas: ao aplicar a proteção, as rotas chegavam a aparecer vazias e o conteúdo não era renderizado corretamente. Para contornar isso, resolvi mover a lógica de proteção para o layout do admin, evitando sobrecarregar as rotas e permitindo que o conteúdo fosse carregado e autorizado no nível do layout. Essa solução se mostrou simples e eficaz para o caso que estávamos enfrentando.
+
+Como lição, ficou claro que nem tudo precisa sair perfeito desde o início. Aprendi a resolver problemas em condições não ideais e que uma comunicação rápida e objetiva muitas vezes resolve bloqueios que pareceriam complexos. De forma geral, a Sprint 2 foi importante para consolidar autenticação, padronizar chamadas de API e desbloquear o time para que as entregas pudessem evoluir com mais estabilidade.
+

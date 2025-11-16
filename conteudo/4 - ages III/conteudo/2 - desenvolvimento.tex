@@ -10,22 +10,79 @@ Os repositórios foram definidos em 3 conteúdos sendo eles:
 
 \subsection{Banco de Dados Utilizado}
 No desenvolvimento do sistema, optou-se por uma abordagem dupla de bancos de dados, utilizando o PostgreSQL e o MongoDB, cada um desempenhando papéis complementares. O PostgreSQL \cite{postgresql}, banco de dados relacional amplamente reconhecido por sua robustez e confiabilidade, foi empregado para armazenar informações que exigem alta integridade e consistência, como dados de usuários, controle de estoque e histórico de pedidos. Já o MongoDB \cite{mongodb}, banco de dados não relacional orientado a documentos, foi escolhido para gerenciar elementos mais dinâmicos, como o carrinho de compras e listas temporárias, permitindo maior flexibilidade na estruturação e manipulação dessas informações. Essa combinação possibilita um equilíbrio entre desempenho, escalabilidade e integridade, explorando as vantagens específicas de cada tecnologia.
-\subsection{Arquitetura Utilizada}
-No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture}) para o desenvolvimento do backend, implementado em Java \cite{java} com o framework Spring Boot \cite{springboot}. Essa organização separa claramente as responsabilidades entre as camadas de apresentação, serviços, repositórios e entidades, promovendo maior manutenibilidade, testabilidade e clareza no fluxo de dados. No frontend, foi utilizada a biblioteca React \cite{react}, estruturada de forma modular, permitindo o reaproveitamento de componentes e a escalabilidade da aplicação. Para o estilo, optou-se pelo uso de SCSS Modules, que garantem isolamento de escopo e facilitam a manutenção visual da interface, contribuindo para uma organização consistente entre lógica, apresentação e estilos em toda a aplicação.
-\subsection{Protótipos das Telas Desenvolvidas}
-  Na Sprint 0, protótipos de telas foram desenvolvidos e entregues aos clientes. Usamos elas como base para construir o frontend.
-  \begin{figure}[H]
+  
+\begin{figure}[H]
     \centering
     \small
-    \caption{Protótipo no Figma}
-    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg}
-    Fonte: figma do projeto
+    \caption{Banco de Dados}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png}
+    Fonte: Wiki do Projeto
     \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
 
 
+\subsection{Arquitetura Utilizada}
+No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture}) para o desenvolvimento do backend, implementado em Java \cite{java} com o framework Spring Boot \cite{springboot}. Essa organização separa claramente as responsabilidades entre as camadas de apresentação, serviços, repositórios e entidades, promovendo maior manutenibilidade, testabilidade e clareza no fluxo de dados. No frontend, foi utilizada a biblioteca React \cite{react}, estruturada de forma modular, permitindo o reaproveitamento de componentes e a escalabilidade da aplicação. Para o estilo, optou-se pelo uso de SCSS Modules, que garantem isolamento de escopo e facilitam a manutenção visual da interface, contribuindo para uma organização consistente entre lógica, apresentação e estilos em toda a aplicação. Na parte de Infraestrutura, utilizamos a \ac{aws} \cite{aws} para hospedar a aplicação, criando uma EC2 para o frontend, uma para o backend junto dos bancos de dados. O frontend utiliza NGINX para servir arquivos estáticos, atuar como reverse proxy para o backend, realizar terminação SSL/TLS, fazer cache e compressão, e gerenciar balanceamento de carga quando necessário, garantindo desempenho e segurança. Para hospedar imagens, utilizamos o Amazon S3, que oferece armazenamento escalável e seguro para os arquivos estáticos do projeto, como imagens de produtos. Também utilizamos o GitHub Actions para realizar o CI/CD do projeto, automatizando os processos de build e testes.
+
+    \begin{figure}[H]
+    \centering
+    \small
+    \caption{Diagrama de Arquitetura}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png}
+    Fonte: Wiki do Projeto
+    \label{fig:projeto-time-se-doce-fosse}
+\end{figure}
+
+  
+\subsection{Protótipos das Telas Desenvolvidas}
+  Na Sprint 0, protótipos de telas foram desenvolvidos e entregues aos clientes. Usamos elas como base para construir o frontend e validar com o clientes, além de auxiliar no backend, para entender quais endpoints seriam necessários. O protótipo foi desenvolvido no Figma, uma ferramenta colaborativa de design de interfaces que permite a criação de protótipos interativos e compartilháveis. A seguir, imagens do protótipo desenvolvido:
+  \begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo no Figma - Home}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg}
+    Fonte: Figma do projeto
+    \label{fig:projeto-time-se-doce-fosse}
+\end{figure}
+
+\begin{figure}[H]
+   \centering
+   \small
+   \caption{Protótipo no Figma - Página de Produtos}
+   \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg}
+   Fonte: Figma do Projeto
+   \label{fig:projeto-time-se-doce-fosse}
+\end{figure}
+
+ \begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo no Figma - Tabela de pedidos (Admin)}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg}
+    Fonte: Figma do Projeto
+    \label{fig:projeto-time-se-doce-fosse}
+\end{figure}
+
+  \begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo no Figma - Página Admin}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg}
+    Fonte: Figma do projeto
+    \label{fig:projeto-time-se-doce-fosse}
+\end{figure}
+
+
+
+
+
 \subsection{Tecnologias Utilizadas}
-  Estamos utilizando uma stack versátil que conta com Java 21 \cite{java} com Spring Boot \cite{springboot} no backend, com dois bancos: PostgreSQL \cite{postgresql} e MongoDB \cite{mongodb}. No frontend, estamos utilizando TypeScript \cite{typescript} com React \cite{react}. 
-  A escolha de Java 21 e SpringBoot, se define pela facilidade de aprendizado dos alunos, já que a faculdade introduz uma base forte e muito boa em Java, além de contar com a robustez que o framework Spring Boot traz, sendo uma excelente escolha para desenvolver o projeto. 
-  No frontend, optamos por React apenas com TypeScript. React base, sem qualquer outro framework, para extrair apenas o necessário e não contar com overengineering, já que o projeto não demanda de muitas caractersticas, além de ajudar a curva de aprendizado dos AGES I. O TypeScript foi escolhido para dar uma camada de tipos, para garantir mais segurança e boas práticas de programação.
+  Escolhemos uma stack que equilibra aprendizado e robustez: Java 21 \cite{java} com Spring Boot \cite{springboot} no backend, PostgreSQL \cite{postgresql} para dados relacionais críticos e MongoDB \cite{mongodb} para dados mais flexíveis, e React com TypeScript \cite{react,typescript} no frontend.
+
+  Java e Spring Boot foram adotados pela familiaridade dos alunos e pela produtividade na criação de APIs testáveis. PostgreSQL garante integridade e consultas complexas, enquanto MongoDB facilita dados com esquema variável (ex.: carrinho). React + TypeScript oferece componentes reutilizáveis e verificação de tipos em desenvolvimento. Complementamos com SCSS Modules para estilos, NGINX para servir o frontend e GitHub Actions para CI/CD. A infraestrutura utiliza AWS \cite{aws} (S3 e EC2) quando necessário. Essa combinação também expõe os alunos a paradigmas diferentes (relacional e documental) sem aumentar muito a complexidade operacional.
+
+  Essas escolhas priorizam aprendizado prático e entrega eficiente, evitando complexidade desnecessária ao mesmo tempo em que expõem os alunos a tecnologias e padrões usados em produção. Além disso, priorizamos práticas como testes automatizados e integração contínua para reforçar formação profissional e preparar os alunos para contextos reais de desenvolvimento.
+
+
+  
 

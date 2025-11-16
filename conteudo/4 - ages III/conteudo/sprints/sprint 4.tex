@@ -1,3 +1,11 @@
 \subsection{Sprint 4}
+ 
+Na Sprint 4 atuei diretamente auxiliando os AGES I nas integrações do frontend. Todos finalizaram as integrações com sucesso e passaram a rodar por conta própria.
 
-No mínimo uma página contendo tudo que o aluno fez na Sprint 4.
+Também trabalhei nas integrações da tabela da tela de estoque e concluí a funcionalidade de produto, incluindo a gestão de ingredientes por meio do modal de criar e editar produtos. Com isso foi possível aplicar descontos diretamente na tabela de estoque de forma consistente. Corrigi problemas de CSS relacionados a modais e revisei pull requests, aceitando mudanças corretas e solicitando ajustes quando necessário. Durante a sprint executei testes manuais de ponta a ponta e preparei exemplos de dados que facilitaram o trabalho dos colegas menos experientes.
+
+Posteriormente finalizei o deploy na AWS, configurei o ambiente para rodar com NGINX e apontei corretamente para o backend. Isso permitiu testar a aplicação em um ambiente mais próximo ao de produção e identificar pontos finos que não eram visíveis em testes locais. Na integração inicial houve um bloqueio de CORS. As requisições foram impedidas até que o endereço do frontend, o IP elástico, fosse incluído nas liberações de CORS no backend. Identificamos a causa, ajustamos as regras de CORS e atualizamos variáveis de ambiente. Após o redeploy do backend os testes em produção passaram a funcionar normalmente e, em seguida, realizamos a demonstração ao cliente. A apresentação foi bem sucedida e o deploy foi validado pelo cliente.
+
+Como lição, ficou evidente que decisões de infraestrutura na nuvem, como provisionamento de IP e regras de CORS, devem ser priorizadas mais cedo no cronograma, pois resolver esses pontos tardiamente gera retrabalho e atrasos para a entrega final do projeto. Sendo assim, um planejamento antecipado dessas etapas em sprints passadas, ajudaria a mitigar riscos e garantir uma entrega mais fluida sem contratempos técnicos de última hora.
+
+Ao mesmo tempo a prioridade em apoiar o AGES I foi justificável porque desde que entrei no projeto, meu maior objetivo era passar conhecimento para quem não tinha tanta experiência, pois sei que isso faz uma diferença enorme no resultado final da AGES, já que a disciplina é feita para os alunos aprenderem e crescerem tecnicamente. Foi justamente na AGES que tive meu primeiro contato com desenvolvimento web e sem esse apoio inicial, talvez eu não teria conseguido chegar onde cheguei hoje.

@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{aws}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5da226139d3f8246b9a75e205417bada}{%
+           family={{Amazon.com, Inc.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5da226139d3f8246b9a75e205417bada}
+      \strng{fullhash}{5da226139d3f8246b9a75e205417bada}
+      \strng{bibnamehash}{5da226139d3f8246b9a75e205417bada}
+      \strng{authorbibnamehash}{5da226139d3f8246b9a75e205417bada}
+      \strng{authornamehash}{5da226139d3f8246b9a75e205417bada}
+      \strng{authorfullhash}{5da226139d3f8246b9a75e205417bada}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 16/11/2025}
+      \field{title}{Amazon Web Services (AWS): Cloud Computing Services}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/
+      \endverb
+    \endentry
     \entry{docker}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e6f3d214228cc5933c1a82019f7dc0e0}{%

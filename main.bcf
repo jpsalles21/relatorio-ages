@@ -2467,12 +2467,14 @@
     <bcf:citekey order="12" intorder="1">java</bcf:citekey>
     <bcf:citekey order="13" intorder="1">springboot</bcf:citekey>
     <bcf:citekey order="14" intorder="1">react</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">java</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">springboot</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">postgresql</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">mongodb</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">typescript</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">aws</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">java</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">springboot</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">postgresql</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">mongodb</bcf:citekey>
     <bcf:citekey order="20" intorder="1">react</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">typescript</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">aws</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
