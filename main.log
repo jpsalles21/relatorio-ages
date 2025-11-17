@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.16)  16 NOV 2025 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.16)  16 NOV 2025 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1457,9 +1457,21 @@ se.jpg  used on input line 10.
 
 
 
-] [25 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy
-)>]
-<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=274, 1165.35374
+]
+Overfull \hbox (7.81723pt too wide) in paragraph at lines 5--6
+[]\T1/phv/m/n/12 Repositório para o fron-tend: [][]https://tools.ages.pucrs.br/
+se-doce-fosse/frontend[][], onde
+ []
+
+
+Overfull \hbox (9.52203pt too wide) in paragraph at lines 6--7
+[]\T1/phv/m/n/12 Repositório para o bac-kend: [][]https://tools.ages.pucrs.br/s
+e-doce-fosse/backend[][], onde
+ []
+
+[25 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>
+]
+<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=273, 1165.35374
 pt x 726.715pt>
 File: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png Graphic file (
 type png)
@@ -1467,10 +1479,11 @@ type png)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse
 .png  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 283.88342pt.
+ [26]
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
- [26 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
-<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=292, 1322.
+ [27 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
+<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=297, 1322.
 69156pt x 346.29375pt>
 File: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png Graphic f
 ile (type png)
@@ -1478,7 +1491,7 @@ ile (type png)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/diagrama-sedoce
 fosse.png  used on input line 31.
 (pdftex.def)             Requested size: 455.24411pt x 119.18613pt.
-<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=293, 1485.55pt x 1
+<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=298, 1485.55pt x 1
 408.26125pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg Graphic file (typ
 e jpg)
@@ -1486,8 +1499,9 @@ e jpg)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jp
 g  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 431.5497pt.
- [27 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
-<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=301, 1485.55pt x 
+
+[28 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
+<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=305, 1485.55pt x 
 1520.68124pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg Graphic file (ty
 pe jpg)
@@ -1495,8 +1509,9 @@ pe jpg)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.j
 pg  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 465.99986pt.
- [28 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=306, 1927.2pt
+
+[29 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=310, 1927.2pt
  x 1084.05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file
  (type jpg)
@@ -1504,8 +1519,8 @@ File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdm
 in.jpg  used on input line 61.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [29 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=311, 1927.2pt x 1084
+ [30 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=316, 1927.2pt x 1084
 .05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg Graphic file (type 
 jpg)
@@ -1513,15 +1528,15 @@ jpg)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg 
  used on input line 70.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [30 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteu
-do/4 - ages III/conteudo/figures/FigmaAdmin.jpg>])
-(conteudo/4 - ages III/conteudo/3 - atividades.tex
-(conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [31])
-(conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [32])
-(conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [33])
-(conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [34])
-(conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [35]))
-(conteudo/4 - ages III/conteudo/4 - conclusao.tex [36])) [37] [38]
+ [31 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteu
+do/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (conteudo/4 - ages III/conte
+udo/3 - atividades.tex
+(conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [32])
+(conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [33])
+(conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [34])
+(conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [35])
+(conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [36]))
+(conteudo/4 - ages III/conteudo/4 - conclusao.tex [37])) [38] [39]
 \openout2 = `"conteudo/5 - ages IV/index.aux"'.
 
 
@@ -1532,7 +1547,7 @@ Cap\'{\i }tulo 5.
 (conteudo/5 - ages IV/conteudo/3 - atividades.tex
 (conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex)
 (conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex)
-(conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex [39
+(conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex [40
 
 
 
@@ -1540,13 +1555,13 @@ Cap\'{\i }tulo 5.
 ])
 (conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex)
 (conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex))
-(conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [40]
+(conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [41]
 \openout2 = `"conteudo/6 - consideracoes/consideracoes.aux"'.
 
 
 (conteudo/6 - consideracoes/consideracoes.tex
 Cap\'{\i }tulo 6.
-) [41
+) [42
 
 
 
@@ -1561,15 +1576,15 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 (C:\Users\salle\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-[42
+[43
 
 
 
 
-]) [43]
+]) [44]
 \openout2 = `"conteudo/8 - apendices/apendices.aux"'.
 
- (conteudo/8 - apendices/apendices.tex) [44
+ (conteudo/8 - apendices/apendices.tex) [45
 
 
 
@@ -1607,8 +1622,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26448 strings out of 474486
- 493142 string characters out of 5743754
+ 26449 strings out of 474486
+ 493149 string characters out of 5743754
  1944542 words of memory out of 5000000
  48019 multiletter control sequences out of 15000+600000
  579641 words of font info for 61 fonts, out of 8000000 for 9000
@@ -1620,9 +1635,9 @@ ts/cm/cmsy10.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 helvetic/uhvb8a.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/helvetic/uhvr8a.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (45 pages, 8284320 bytes).
+Output written on main.pdf (46 pages, 8285776 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
+ 603 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 500000)
  272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
