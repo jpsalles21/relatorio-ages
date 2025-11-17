@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.16)  16 NOV 2025 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.16)  17 NOV 2025 00:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1268,44 +1268,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 e/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}])
 \openout2 = `"conteudo/0 - pre/0.2 - dedicatoria.aux"'.
 
- (conteudo/0 - pre/0.2 - dedicatoria.tex
+
+No file conteudo/0 - pre/0.2 - dedicatoria.tex.
+\openout2 = `"conteudo/0 - pre/0.3 - agradecimentos.aux"'.
+
+No file conteudo/0 - pre/0.3 - agradecimentos.tex.
+\openout2 = `"conteudo/0 - pre/0.4 - epigrafe.aux"'.
+
+No file conteudo/0 - pre/0.4 - epigrafe.tex.
+\openout2 = `"conteudo/0 - pre/0.5 - resumo.aux"'.
+
+(conteudo/0 - pre/0.5 - resumo.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \end{dedicatoria}
-                       [1
+l.13 \end{resumo}
+                  [1
 
 
 
 
 
-])
-\openout2 = `"conteudo/0 - pre/0.3 - agradecimentos.aux"'.
-
- (conteudo/0 - pre/0.3 - agradecimentos.tex [2
 
 
 
 
 
-])
-\openout2 = `"conteudo/0 - pre/0.4 - epigrafe.aux"'.
-
-
-(conteudo/0 - pre/0.4 - epigrafe.tex
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
- [3
-
-
-
-
-])
-\openout2 = `"conteudo/0 - pre/0.5 - resumo.aux"'.
-
- (conteudo/0 - pre/0.5 - resumo.tex
-[4
 
 
 
@@ -1313,7 +1302,8 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 ])
 \openout2 = `"conteudo/0 - pre/0.6 - ilustracoes.aux"'.
 
- (conteudo/0 - pre/0.6 - ilustracoes.tex (main.lof)) [5
+ (conteudo/0 - pre/0.6 - ilustracoes.tex (main.lof))
+[2
 
 
 
@@ -1322,15 +1312,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 \openout2 = `"conteudo/0 - pre/0.7 - tabelas.aux"'.
 
 
-(conteudo/0 - pre/0.7 - tabelas.tex (main.lot)) [6
-
-
-
-]
+No file conteudo/0 - pre/0.7 - tabelas.tex.
 \openout2 = `"conteudo/0 - pre/0.8 - siglas.aux"'.
 
+(conteudo/0 - pre/0.8 - siglas.tex) [3
 
-(conteudo/0 - pre/0.8 - siglas.tex) [7
+
+
 
 
 
@@ -1338,7 +1326,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 \openout2 = `"conteudo/0 - pre/0.9 - sumario.aux"'.
 
  (conteudo/0 - pre/0.9 - sumario.tex
-(main.toc)) [8
+(main.toc)) [4
 
 
 
@@ -1347,7 +1335,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 
  (conteudo/1 - apresentacao/apresentacao.tex
 Cap\'{\i }tulo 1.
-) [9
+) [5
 
 
 
@@ -1358,8 +1346,8 @@ Cap\'{\i }tulo 1.
  (conteudo/2 - ages I/index.tex
 Cap\'{\i }tulo 2.
 (conteudo/2 - ages I/conteudo/1 - introducao.tex
-<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=133, 4047.12pt x 3035
-.34pt>
+<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=94, 4047.12pt x 3035.
+34pt>
 File: conteudo//2 - ages I//conteudo//figures/fototime.jpg Graphic file (type j
 pg)
 <use conteudo//2 - ages I//conteudo//figures/fototime.jpg>
@@ -1372,28 +1360,30 @@ used on input line 19.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 7.
 
-[10
+[6
 
 
 
 
  <./conteudo//2 - ages I//conteudo//figures/fototime.jpg>]
-<conteudo/2 - ages I/conteudo/figures/figma1.png, id=141, 1138.2525pt x 604.257
+<conteudo/2 - ages I/conteudo/figures/figma1.png, id=103, 1138.2525pt x 604.257
 5pt>
 File: conteudo/2 - ages I/conteudo/figures/figma1.png Graphic file (type png)
 <use conteudo/2 - ages I/conteudo/figures/figma1.png>
 Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/figma1.png  used 
 on input line 45.
 (pdftex.def)             Requested size: 455.24411pt x 241.67105pt.
- [11])
+ [7])
 (conteudo/2 - ages I/conteudo/3 - atividades.tex
-(conteudo/2 - ages I/conteudo/sprints/sprint 0.tex)
-(conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [12 <./conteudo/2 - ages I/c
-onteudo/figures/figma1.png>])
-(conteudo/2 - ages I/conteudo/sprints/sprint 2.tex)
-(conteudo/2 - ages I/conteudo/sprints/sprint 3.tex)
-(conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [13]))
-(conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+(conteudo/2 - ages I/conteudo/sprints/sprint 0.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
+)
+(conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [8 <./conteudo/2 - ages I/co
+nteudo/figures/figma1.png>]) (conteudo/2 - ages I/conteudo/sprints/sprint 2.tex
+) (conteudo/2 - ages I/conteudo/sprints/sprint 3.tex)
+(conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [9]))
+(conteudo/2 - ages I/conteudo/4 - conclusao.tex [10])) [11]
 \openout2 = `"conteudo/3 - ages II/index.aux"'.
 
 
@@ -1406,7 +1396,7 @@ LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
 (C:\Users\salle\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=181, 3035.34pt x 2276.5
+<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=143, 3035.34pt x 2276.5
 05pt>
 File: conteudo/3 - ages II/conteudo/figures/fototime.jpg Graphic file (type jpg
 )
@@ -1415,13 +1405,13 @@ Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/fototime.jpg  us
 ed on input line 17.
 (pdftex.def)             Requested size: 455.24411pt x 341.42628pt.
 )
-(conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [16
+(conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [12
 
 
 
 
- <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>] [17]
-<conteudo/3 - ages II/conteudo/figures/figma2.png, id=200, 1927.2pt x 1084.05pt
+ <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>] [13]
+<conteudo/3 - ages II/conteudo/figures/figma2.png, id=163, 1927.2pt x 1084.05pt
 >
 File: conteudo/3 - ages II/conteudo/figures/figma2.png Graphic file (type png)
 <use conteudo/3 - ages II/conteudo/figures/figma2.png>
@@ -1430,20 +1420,20 @@ Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/figma2.png  used
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
 )
 (conteudo/3 - ages II/conteudo/3 - atividades.tex
-(conteudo/3 - ages II/conteudo/sprints/sprint 0.tex [18 <./conteudo/3 - ages II
+(conteudo/3 - ages II/conteudo/sprints/sprint 0.tex [14 <./conteudo/3 - ages II
 /conteudo/figures/figma2.png>])
-(conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [19])
+(conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [15])
 (conteudo/3 - ages II/conteudo/sprints/sprint 2.tex)
-(conteudo/3 - ages II/conteudo/sprints/sprint 3.tex [20])
-(conteudo/3 - ages II/conteudo/sprints/sprint 4.tex [21]))
-(conteudo/3 - ages II/conteudo/4 - conclusao.tex [22])) [23]
+(conteudo/3 - ages II/conteudo/sprints/sprint 3.tex [16])
+(conteudo/3 - ages II/conteudo/sprints/sprint 4.tex [17]))
+(conteudo/3 - ages II/conteudo/4 - conclusao.tex [18])) [19]
 \openout2 = `"conteudo/4 - ages III/index.aux"'.
 
 
 (conteudo/4 - ages III/index.tex
 Cap\'{\i }tulo 4.
 (conteudo/4 - ages III/conteudo/1 - introducao.tex
-<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=255, 1068.993
+<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=218, 1068.993
 74pt x 826.08624pt>
 File: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg Graphic file
  (type jpg)
@@ -1452,7 +1442,7 @@ Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFos
 se.jpg  used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 351.79419pt.
 )
-(conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [24
+(conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [20
 
 
 
@@ -1469,9 +1459,9 @@ Overfull \hbox (9.52203pt too wide) in paragraph at lines 6--7
 e-doce-fosse/backend[][], onde
  []
 
-[25 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>
+[21 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>
 ]
-<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=273, 1165.35374
+<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=235, 1165.35374
 pt x 726.715pt>
 File: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png Graphic file (
 type png)
@@ -1479,11 +1469,11 @@ type png)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse
 .png  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 283.88342pt.
- [26]
+ [22]
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
- [27 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
-<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=297, 1322.
+ [23 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
+<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=259, 1322.
 69156pt x 346.29375pt>
 File: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png Graphic f
 ile (type png)
@@ -1491,7 +1481,7 @@ ile (type png)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/diagrama-sedoce
 fosse.png  used on input line 31.
 (pdftex.def)             Requested size: 455.24411pt x 119.18613pt.
-<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=298, 1485.55pt x 1
+<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=260, 1485.55pt x 1
 408.26125pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg Graphic file (typ
 e jpg)
@@ -1500,8 +1490,8 @@ Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jp
 g  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 431.5497pt.
 
-[28 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
-<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=305, 1485.55pt x 
+[24 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
+<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=268, 1485.55pt x 
 1520.68124pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg Graphic file (ty
 pe jpg)
@@ -1510,8 +1500,8 @@ Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.j
 pg  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 465.99986pt.
 
-[29 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=310, 1927.2pt
+[25 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=273, 1927.2pt
  x 1084.05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file
  (type jpg)
@@ -1519,8 +1509,8 @@ File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdm
 in.jpg  used on input line 61.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [30 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=316, 1927.2pt x 1084
+ [26 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=278, 1927.2pt x 1084
 .05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg Graphic file (type 
 jpg)
@@ -1528,79 +1518,55 @@ jpg)
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg 
  used on input line 70.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [31 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteu
+ [27 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteu
 do/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (conteudo/4 - ages III/conte
 udo/3 - atividades.tex
-(conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [32])
-(conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [33])
-(conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [34])
-(conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [35])
-(conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [36]))
-(conteudo/4 - ages III/conteudo/4 - conclusao.tex [37])) [38] [39]
+(conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [28])
+(conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [29])
+(conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [30])
+(conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [31])
+(conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [32]))
+(conteudo/4 - ages III/conteudo/4 - conclusao.tex [33])) [34] [35]
 \openout2 = `"conteudo/5 - ages IV/index.aux"'.
 
 
-(conteudo/5 - ages IV/index.tex
-Cap\'{\i }tulo 5.
-(conteudo/5 - ages IV/conteudo/1 - introducao.tex)
-(conteudo/5 - ages IV/conteudo/2 - desenvolvimento.tex)
-(conteudo/5 - ages IV/conteudo/3 - atividades.tex
-(conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex)
-(conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex)
-(conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex [40
-
-
-
-
-])
-(conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex)
-(conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex))
-(conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [41]
+No file conteudo/5 - ages IV/index.tex.
 \openout2 = `"conteudo/6 - consideracoes/consideracoes.aux"'.
 
-
-(conteudo/6 - consideracoes/consideracoes.tex
-Cap\'{\i }tulo 6.
-) [42
-
-
-
-
-]
+No file conteudo/6 - consideracoes/consideracoes.tex.
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (conteudo/7 - pos/referencias.tex
+(conteudo/7 - pos/referencias.tex
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 .
 
 (C:\Users\salle\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-[43
+[36
 
 
 
 
-]) [44]
+
+
+
+
+
+
+]) [37]
 \openout2 = `"conteudo/8 - apendices/apendices.aux"'.
 
- (conteudo/8 - apendices/apendices.tex) [45
 
-
-
-
-]
+No file conteudo/8 - apendices/apendices.tex.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-\tf@lot=\write6
-\openout6 = `main.lot'.
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
-\tf@toc=\write7
-\openout7 = `main.toc'.
-
- (main.aux
-(conteudo/0 - pre/0.1 - capa.aux) (conteudo/0 - pre/0.2 - dedicatoria.aux)
+(main.aux (conteudo/0 - pre/0.1 - capa.aux)
+(conteudo/0 - pre/0.2 - dedicatoria.aux)
 (conteudo/0 - pre/0.3 - agradecimentos.aux)
 (conteudo/0 - pre/0.4 - epigrafe.aux) (conteudo/0 - pre/0.5 - resumo.aux)
 (conteudo/0 - pre/0.6 - ilustracoes.aux) (conteudo/0 - pre/0.7 - tabelas.aux)
@@ -1622,10 +1588,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26449 strings out of 474486
- 493149 string characters out of 5743754
- 1944542 words of memory out of 5000000
- 48019 multiletter control sequences out of 15000+600000
+ 26291 strings out of 474486
+ 486864 string characters out of 5743754
+ 1945542 words of memory out of 5000000
+ 47935 multiletter control sequences out of 15000+600000
  579641 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,107p,2281b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1635,9 +1601,9 @@ ts/cm/cmsy10.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 helvetic/uhvb8a.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/helvetic/uhvr8a.pfb><C:/Users/salle/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (46 pages, 8285776 bytes).
+Output written on main.pdf (38 pages, 8266842 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 152 named destinations out of 1000 (max. 500000)
- 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 503 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
