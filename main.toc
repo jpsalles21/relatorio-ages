@@ -56,25 +56,43 @@
 \contentsline {subsection}{\numberline {4.3.5}Sprint 4}{37}{subsection.4.3.5}%
 \contentsline {section}{\numberline {4.4}Conclusão}{38}{section.4.4}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{AGES IV --- “NOME DO PROJETO XXXX”}}{40}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{AGES IV --- ``UMA PORTO ALEGRE ALEM\~A''}}{40}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introdução}{40}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Desenvolvimento do Projeto}{40}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Repositório do Código Fonte do Projeto}{40}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Banco de Dados Utilizado}{40}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Arquitetura Utilizada}{40}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Protótipos das Telas Desenvolvidas}{40}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Tecnologias Utilizadas}{40}{subsection.5.2.5}%
-\contentsline {section}{\numberline {5.3}Atividades Desempenhadas Pelo Aluno no Projeto}{40}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Sprint 0}{40}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Sprint 1}{41}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Sprint 2}{41}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Sprint 3}{41}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}Sprint 4}{41}{subsection.5.3.5}%
-\contentsline {section}{\numberline {5.4}Conclusão}{41}{section.5.4}%
+\contentsline {section}{\numberline {5.2}Desenvolvimento do Projeto}{42}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Repositório do Código Fonte do Projeto}{42}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Banco de Dados Utilizado}{42}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Arquitetura Utilizada}{43}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Protótipos das Telas Desenvolvidas}{44}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Tecnologias Utilizadas}{48}{subsection.5.2.5}%
+\contentsline {section}{\numberline {5.3}Atividades Desempenhadas Pelo Aluno no Projeto}{49}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Sprint 0}{49}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Sprint 1}{50}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Sprint 2}{51}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Sprint 3}{52}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Sprint 4}{52}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Conclusão}{52}{section.5.4}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Considerações Finais}}{42}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Considerações Finais}}{53}{chapter.6}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Referências}{43}{section*.24}%
+\contentsline {chapter}{Referências}{54}{section*.30}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
