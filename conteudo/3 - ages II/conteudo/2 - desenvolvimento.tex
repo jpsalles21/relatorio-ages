@@ -3,24 +3,21 @@
 \subsection{Repositório do Código Fonte do Projeto}
   Os repositório foram divididos entre web-medico, web-site, web-administrador,
 api-medico, api-administrador, auth, infra e wiki.
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{web-site}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{web-medico}
-\par Repositório para  o \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{web-administrador}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{api-medico}{}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{auth}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/infra}{infra}
-\par Repositório para wiki: \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{wiki}
+
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{\textit{web-site}}
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{\textit{web-medico}}
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{\textit{web-administrador}}
+\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{\textit{api-medico}}
+\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{\textit{auth}}
+\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/infra}{\textit{infra}}
+\par Repositório para a \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{\textit{wiki}}
 
 \subsection{Banco de Dados Utilizado}
-No Banco de Dados, optamos por utilizar o PostgresSQL pela sua robustez.
-Entidades do projeto
-Paciente: Armazena as informações pertinentes ao projeto do paciente
-Medico: Armazena as informações pertinentes ao projeto do médico.
-Area: Armazena as subareas da qual pertencem os estudos.
-Resposta: Armazena a resposta de um paciente sobre um determinado critério.
-Estudo: Armazena informações de estudos e os critérios pertencentes através da entidade CritérioEstudo.
-Criterio: Armazena a pergunta sobre um critério.
-CriterioEstudo: Armazena os dados sobre um critério referente a um determinado estudo, como resposta esperada por ele, se é um critério opcional e relaciona o critério ao estudo.`
+No banco de dados, o projeto utilizou PostgreSQL \cite{postgresql}, escolhido por ser um banco relacional robusto e adequado para representar entidades com relacionamentos claros. Diferente da minha experiência na AGES I, em que eu tive pouco contato com a persistência, na AGES II precisei entender melhor como os dados se relacionavam, porque o filtro de estudos e o cadastro de pacientes dependiam diretamente dessas informações.
+
+As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, \textit{Estudo}, \textit{Criterio}, \textit{CriterioEstudo} e \textit{Resposta}. A entidade \textit{Paciente} armazenava os dados necessários para a triagem; \textit{Medico} representava o profissional que utilizaria a plataforma; \textit{Area} organizava as subáreas dos estudos; \textit{Estudo} concentrava as informações dos ensaios clínicos; \textit{Criterio} guardava as perguntas ou condições avaliadas; \textit{CriterioEstudo} fazia a relação entre um estudo e seus critérios, indicando resposta esperada e se o critério era opcional; e \textit{Resposta} registrava a resposta de um paciente para determinado critério.
+
+// Falta adicionar figura
 
 \subsection{Arquitetura Utilizada}
  No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
@@ -41,20 +38,19 @@ comunicação com APIs externas. Por fim, os utils são úteis para funções ut
 como autenticação e verificação do tipo de usuário
 
 \subsection{Protótipos das Telas Desenvolvidas}
+Os protótipos foram desenvolvidos no Figma \cite{figma} e serviram como referência para validar o fluxo com os stakeholders antes de implementar as telas. Eles foram especialmente importantes no início do projeto, quando ainda estávamos discutindo como seria a navegação, como o médico faria a triagem e como os estudos seriam apresentados.
+
+Para mim, os protótipos ajudaram a transformar discussões abstratas em tarefas mais concretas de \textit{frontend}. A Figura~\ref{fig:ages-ii-figma} apresenta um exemplo de protótipo utilizado no projeto.
 \begin{figure}[H]
     \centering
     \small
-    \caption{Protótipo no Figma}
+    \caption{Protótipo no Figma - Let Me Trial}
     \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/figma2.png}
     Fonte: figma do projeto
-    \label{fig:projeto-time}
+    \label{fig:ages-ii-figma}
 \end{figure}
 
 \subsection{Tecnologias Utilizadas}
-  No backend, estamos utilizando Java 21 \cite{java} com o framework Spring Boot \cite{springboot}, além
-do JUnit para testes, pois, a maioria do grupo era familiarizado com a linguagem, o
-que facilitaria e aumentaria a velocidade e a qualidade do projeto. No frontend
-optamos por utilizar a biblioteca React, com TypeScript e o framework Next. Para o
-frontend, utilizo o Postman \cite{postman} para testar as APIs antes de alguma integração.
-  
-  
+No \textit{backend}, utilizamos Java 21 \cite{java} com Spring Boot \cite{springboot}, além de JUnit para testes. Essa escolha foi feita porque boa parte do grupo já tinha familiaridade com Java, o que ajudaria na produtividade e na qualidade das entregas. O PostgreSQL foi utilizado como banco de dados relacional para armazenar as entidades principais do sistema, trazendo robustez.
+
+No \textit{frontend}, utilizamos React \cite{react} com TypeScript \cite{typescript} e Next.js \cite{nextjs}. Também usamos Material UI \cite{materialui} para acelerar a construção de componentes visuais e manter uma interface mais consistente. Durante as integrações, utilizei o Postman \cite{postman} para testar APIs antes de conectar as funcionalidades nas telas. Na sprint final, também tive contato com Docker \cite{docker} e com o fluxo de autenticação, o que ampliou bastante minha visão sobre como uma aplicação web funciona além da parte visual.

@@ -1,31 +1,9 @@
 \subsection{Sprint 1}
 
-Começamos a sprint 1, sem planning e sem repositórios do frontend,
-visto que nossos AGES III atrasaram a entrega, assim sobrecarregando
-nossos AGES IV que cumpriram além de suas funções.
-\par Dividimos-nos em squads, onde a minha possuía dois responsáveis
-pelo backend e dois responsáveis pelo frontend. Fiquei no frontend com a
-Carolina e demos inícios as tarefas.
-\par Depois de alguns dias, começaram a surgir as tarefas e logo me
-prontifiquei para realizar o desenvolvimento do componente de botão. De
-certa forma foi fácil, apesar de ser uma primeira experiência minha com o
-React na sua versão web, consegui já deixar pronto para os outros colegas
-poderem utilizar em seus componentes.
-\par Minha squad acabou ficando com uma User Story e demos início ao
-desenvolvimento do componente de card de estudos. Este foi um pouco mais
-complicado, visto que lidava com outros componentes e o processo de
-estilização foi mais complexo. Aproveitei para criar o componente de Tag,
-que serviria para nosso card e demos início ao desenvolvimento. Em poucos
-dias estava pronto, faltava apenas a integração.
-\par A integração foi uma fraqueza do grupo todo, visto que o frontend era
-pouco conhecido pelos participantes, inclusive pelos AGES IV, então tivemos
-uma aula de discussões e tentando entender como funcionaria todo o
-processo de integração sem colocar a mão no código. A missão de casa e
-pra última semana de sprint era entender como funcionava a integração.
-\par Criei um componente de filtro de estudos, para utilizar com nosso
-card. Mas ainda não sabia como integraria tudo, até que criei um
-componente wrapper que “embrulhava” os dois, fazendo a chamada API no
-próprio wrapper, que era utilizado pelo filtro, para depois ser disponibilizada
-uma lista de estudos disponíveis, para então só depois colocar na página,
-assim evitando que a página inteira fosse renderizada novamente a cada
-interação.
+Começamos a Sprint 1 com a \textit{planning} prejudicada e com os repositórios do \textit{frontend} ainda não disponíveis. Isso trouxe um pouco de desorganização para o início do desenvolvimento e acabou sobrecarregando os AGES IV, que precisaram assumir decisões e desbloqueios além do esperado para a sua função. Mesmo assim, conseguimos nos dividir em squads: a minha tinha dois integrantes focados no \textit{backend} e dois no \textit{frontend}. Fiquei no \textit{frontend} com a Carolina e demos ínicio ao desenvolvimento.
+
+Minha primeira tarefa foi desenvolver um componente de botão reutilizável. Apesar de ser minha primeira experiência com React na versão web, a tarefa foi relativamente tranquila e consegui entregar um componente que poderia ser usado pelos colegas em outras partes da interface. Depois disso, trabalhei no card de estudos, que foi mais complexo por envolver composição de componentes, estilização e organização das informações apresentadas ao usuário. Aproveitei também para criar um componente de \textit{Tag}, que seria utilizado dentro do card e em outros lugares do software.
+
+Outro ponto importante foi o desenvolvimento do filtro de estudos. No início, optei por uma solução baseada em \textit{checkboxes} do Material UI, mas precisei estudar melhor como esses componentes funcionavam e como o estado deveria ser controlado. A maior dificuldade da sprint do grupo foi a integração com o \textit{backend}. Como boa parte do grupo tinha pouca experiência com \textit{frontend} web, passamos bastante tempo discutindo como realizar chamadas para a API e como estruturar os dados retornados.
+
+Para resolver isso, estudei o uso do Axios e criei um componente \textit{wrapper} que conectava o filtro aos cards de estudos. Esse componente fazia a chamada para a API, recebia a lista de estudos e repassava os dados para a tela. Com isso, conseguimos avançar na integração sem deixar a página inteira responsável por toda a lógica. Essa sprint reforçou meu aprendizado em React, JavaScript, integração com APIs e trabalho em equipe.

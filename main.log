@@ -1,33 +1,28 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  19 APR 2026 22:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  19 JUN 2026 18:10
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**/Users/jpsalles/AGES/Relatorio/relatorio-ages/main.tex
+(/Users/jpsalles/AGES/Relatorio/relatorio-ages/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/abntex2/abntex2.cls
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
 (/usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
-cument class
-(/usr/local/texlive/2026/texmf-dist/tex/latex/xpatch/xpatch.sty
-(/usr/local/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article document class
+(/usr/local/texlive/2026/texmf-dist/tex/latex/xpatch/xpatch.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count276
 ))
@@ -36,14 +31,12 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \xlvchars=\skip51
 \@memcnta=\count277
 \c@@memmarkcntra=\count278
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 \trimtop=\skip52
 \trimedge=\skip53
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/mem12.clo
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/mem12.clo
 File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
 )
 \binding=\skip54
@@ -133,8 +126,7 @@ File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen153
 \ar@mcellbox=\box53
@@ -143,14 +135,11 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip117
 \backup@length=\skip118
 \ar@cellbox=\box54
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/dcolumn.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2025/10/21 v1.06 decimal alignment package (DPC)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/delarray.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen155
 \TX@old@table=\dimen156
@@ -159,8 +148,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen159
 \TX@cols=\count297
 \TX@ftn=\toks19
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen160
 \lightrulewidth=\dimen161
@@ -214,30 +202,22 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \afterepigraphskip=\skip131
 \epigraphwidth=\skip132
 \epigraphrule=\skip133
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-))
-(/usr/local/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+)) (/usr/local/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
 \c@section@level=\count308
@@ -310,8 +290,7 @@ LaTeX Info: Redefining \flushbottom on input line 8099.
 \c@pagenote=\count312
 \c@pagenoteshadow=\count313
 \mem@pn@lastkern=\skip181
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
@@ -319,10 +298,8 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 )
 \verbatimindent=\skip182
 \verbatim@out=\write3
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/base/shortvrb.sty
-Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
-)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/base/shortvrb.sty
+Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi)
 )
 \bvboxsep=\skip183
 \c@memfbvline=\count314
@@ -384,49 +361,37 @@ Package tocbibind [2008/07/23] emulated by memoir.
 Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/textcase/textcase.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen193
 \Hy@linkcounter=\count335
 \Hy@pagecounter=\count336
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count337
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -439,20 +404,16 @@ Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count338
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen194
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count339
 \Field@Width=\dimen195
@@ -469,68 +430,46 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 \c@Hfootnote=\count342
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count343
 \c@bookmark@seq@number=\count344
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip191
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
 \c@memhycontfloat=\count345
 \c@mem@Hpagenote=\count346
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/bookmark/bookmark.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
-File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
-)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count347
-))
-(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2026/03/08 v26.4 The multilingual framework for LuaLaTeX, pdfLaT
-eX and XeLaTeX
+)) (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/03/08 v26.4 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count348
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2078.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2080.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2082.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2083.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2084.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2086.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2111.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
 \U@D=\dimen197
 \l@unhyphenated=\language91
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count349
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.t
-ex)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/invalid/babel-braz
-il.tex)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/invalid/babel-brazil.tex)
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 4330.
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -551,8 +490,7 @@ Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language73). Reported on input line 100.
 Package babel Info: Making " an active character on input line 132.
-))
-(/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip192
 \enit@outerparindent=\dimen198
@@ -560,8 +498,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box58
 \enit@count@id=\count350
 \enitdp@description=\count351
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count352
 \calc@Bcount=\count353
@@ -617,8 +554,7 @@ Class memoir Warning: \settocpreprocessor is marked deprecated and will be
 \ABNTEXsignskip=\skip257
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-
-(/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count363
@@ -633,43 +569,32 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen263
 \Gm@layoutvoffset=\dimen264
 \Gm@dimlist=\toks26
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen265
 \Gin@req@width=\dimen266
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/helvet.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-)
-(./util/style.tex
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+) (./util/style.tex (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen267
 \captionmargin=\dimen268
@@ -680,10 +605,8 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@parindent=\dimen273
 \caption@hangindent=\dimen274
 Package caption Info: memoir document class detected.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption-memoir.sto
-File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
-e memoir document class (AR)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption-memoir.sto
+File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to the memoir document class (AR)
 ))
 \c@caption@flags=\count366
 \c@continuedfloat=\count367
@@ -691,38 +614,30 @@ Package caption Info: changepage package is loaded.
 \caption@adjustwidth@hsize=\dimen275
 \caption@adjustwidth@linewidth=\dimen276
 Package caption Info: hyperref package is loaded.
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count368
 \float@exts=\toks27
 \float@box=\box59
 \@float@everytoks=\toks28
 \@floatcapt=\box60
-))
-(/usr/local/texlive/2026/texmf-dist/tex/latex/acronym/acronym.sty
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/acronym/acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/bigfoot/suffix.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-)
-(/usr/local/texlive/2026/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/local/texlive/2026/texmf-dist/tex/generic/xstring/xstring.tex
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2026/texmf-dist/tex/generic/xstring/xstring.tex
 \xs_counta=\count369
 \xs_countb=\count370
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 \AC@clearlist=\toks29
-)
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/logreq/logreq.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count371
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/logreq/logreq.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count372
@@ -783,8 +698,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@mincompwidth=\count417
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-dm.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -875,14 +789,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip278
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-compat.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count486
 \c@textcitetotal=\count487
@@ -900,26 +812,22 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'abnt'...
 Package biblatex Info: ... file 'abnt.bbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/abnt.bbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/abnt.bbx
 File: abnt.bbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count495
 \c@bbx:relatedtotal=\count496
 ))
 Package biblatex Info: Trying to load citation style 'abnt'...
 Package biblatex Info: ... file 'abnt.cbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/abnt.cbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/abnt.cbx
 File: abnt.cbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load citation style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.cbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
 File: authoryear-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -954,11 +862,9 @@ Package biblatex Info: ... and expl3
 (biblatex)             2026-01-19 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-))
-(/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.sty
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count497
 \csq@gtype=\count498
@@ -967,47 +873,25 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count501
 \csq@tshold=\count502
 \csq@ltx@everypar=\toks30
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.def
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.cfg
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 46
-.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/t1phv.fd
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 46.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
-) (./main.aux
-(./conteudo/0 - pre/0.1 - capa.aux)
+) (./main.aux (./conteudo/0 - pre/0.1 - capa.aux)
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 15.
- (./conteudo/0 - pre/0.2 - dedicatoria.aux)
-(./conteudo/0 - pre/0.3 - agradecimentos.aux)
-(./conteudo/0 - pre/0.4 - epigrafe.aux) (./conteudo/0 - pre/0.5 - resumo.aux)
-(./conteudo/0 - pre/0.6 - ilustracoes.aux)
-(./conteudo/0 - pre/0.7 - tabelas.aux) (./conteudo/0 - pre/0.8 - siglas.aux)
-(./conteudo/0 - pre/0.9 - sumario.aux)
-(./conteudo/1 - apresentacao/apresentacao.aux) (./conteudo/2 - ages I/index.aux
-) (./conteudo/3 - ages II/index.aux
-
-LaTeX Warning: Label `fig:projeto-time' multiply defined.
-
-
-LaTeX Warning: Label `fig:projeto-time' multiply defined.
-
-) (./conteudo/4 - ages III/index.aux
-
-LaTeX Warning: Label `fig:projeto-time' multiply defined.
-
+ (./conteudo/0 - pre/0.2 - dedicatoria.aux) (./conteudo/0 - pre/0.3 - agradecimentos.aux) (./conteudo/0 - pre/0.4 - epigrafe.aux) (./conteudo/0 - pre/0.5 - resumo.aux) (./conteudo/0 - pre/0.6 - ilustracoes.aux) (./conteudo/0 - pre/0.7 - tabelas.aux) (./conteudo/0 - pre/0.8 - siglas.aux) (./conteudo/0 - pre/0.9 - sumario.aux) (./conteudo/1 - apresentacao/apresentacao.aux) (./conteudo/2 - ages I/index.aux) (./conteudo/3 - ages II/index.aux) (./conteudo/4 - ages III/index.aux
 
 LaTeX Warning: Label `fig:projeto-time-se-doce-fosse' multiply defined.
 
@@ -1023,9 +907,7 @@ LaTeX Warning: Label `fig:projeto-time-se-doce-fosse' multiply defined.
 
 LaTeX Warning: Label `fig:projeto-time-se-doce-fosse' multiply defined.
 
-) (./conteudo/5 - ages IV/index.aux)
-(./conteudo/6 - consideracoes/consideracoes.aux)
-(./conteudo/7 - pos/referencias.aux) (./conteudo/8 - apendices/apendices.aux))
+) (./conteudo/5 - ages IV/index.aux) (./conteudo/6 - consideracoes/consideracoes.aux) (./conteudo/7 - pos/referencias.aux) (./conteudo/8 - apendices/apendices.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -1046,16 +928,13 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 46.
 \myptabbox=\box61
 \myptabboxwidth=\skip279
@@ -1109,115 +988,91 @@ Package hyperref Info: Link coloring ON on input line 46.
 \everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'brazil' -> 'brazil-abnt'...
 Package biblatex Info: ... file 'brazil-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazil-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazil-abnt.lbx
 File: brazil-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
 File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
-Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'.
-..
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
 File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Trying to load language 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
 File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
-Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'.
-..
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
 File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'brazil'...
 Package biblatex Info: ... file 'brazil.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
 File: brazil.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )))
 Package biblatex Info: Trying to load language 'brazil'...
 Package biblatex Info: ... file 'brazil.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
 File: brazil.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'.
-..
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
 File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'brazil'...
 Package biblatex Info: ... file 'brazil.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx
 File: brazil.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx
 File: brazilian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))))))
 Package biblatex Info: Trying to load language 'english' -> 'english-abnt'...
 Package biblatex Info: ... file 'english-abnt.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/english-abnt.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-abnt/english-abnt.lbx
 File: english-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1227,8 +1082,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-
-(./main.bbl)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 46.
 Package biblatex Info: Reference segment=0 on input line 46.
 \openout2 = `"conteudo/0 - pre/0.1 - capa.aux"'.
@@ -1243,13 +1097,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}])
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}])
 \openout2 = `"conteudo/0 - pre/0.2 - dedicatoria.aux"'.
 
  (./conteudo/0 - pre/0.2 - dedicatoria.tex
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.17 \end{dedicatoria}
@@ -1262,8 +1114,7 @@ l.17 \end{dedicatoria}
 ])
 \openout2 = `"conteudo/0 - pre/0.3 - agradecimentos.aux"'.
 
- (./conteudo/0 - pre/0.3 - agradecimentos.tex
-[2
+ (./conteudo/0 - pre/0.3 - agradecimentos.tex [2
 
 
 
@@ -1283,8 +1134,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 ])
 \openout2 = `"conteudo/0 - pre/0.5 - resumo.aux"'.
 
-
-(./conteudo/0 - pre/0.5 - resumo.tex [4
+ (./conteudo/0 - pre/0.5 - resumo.tex [4
 
 
 
@@ -1292,8 +1142,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 ])
 \openout2 = `"conteudo/0 - pre/0.6 - ilustracoes.aux"'.
 
-
-(./conteudo/0 - pre/0.6 - ilustracoes.tex (./main.lof)) [5
+ (./conteudo/0 - pre/0.6 - ilustracoes.tex (./main.lof)) [5
 
 
 
@@ -1301,16 +1150,14 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 ]
 \openout2 = `"conteudo/0 - pre/0.7 - tabelas.aux"'.
 
-
-(./conteudo/0 - pre/0.7 - tabelas.tex (./main.lot)) [6
+ (./conteudo/0 - pre/0.7 - tabelas.tex (./main.lot)) [6
 
 
 
 ]
 \openout2 = `"conteudo/0 - pre/0.8 - siglas.aux"'.
 
-
-(./conteudo/0 - pre/0.8 - siglas.tex) [7
+ (./conteudo/0 - pre/0.8 - siglas.tex) [7
 
 
 
@@ -1337,267 +1184,164 @@ Cap\'{\i }tulo 1.
  (./conteudo/2 - ages I/index.tex
 Cap\'{\i }tulo 2.
 (./conteudo/2 - ages I/conteudo/1 - introducao.tex
-<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=146, 4047.12pt x 3035
-.34pt>
-File: conteudo//2 - ages I//conteudo//figures/fototime.jpg Graphic file (type j
-pg)
+<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=147, 4047.12pt x 3035.34pt>
+File: conteudo//2 - ages I//conteudo//figures/fototime.jpg Graphic file (type jpg)
 <use conteudo//2 - ages I//conteudo//figures/fototime.jpg>
-Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures/fototime.jpg  
-used on input line 19.
+Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures/fototime.jpg  used on input line 13.
 (pdftex.def)             Requested size: 455.24411pt x 341.39154pt.
-)
-(./conteudo/2 - ages I/conteudo/2 - desenvolvimento.tex
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 7.
-
-[10
+) (./conteudo/2 - ages I/conteudo/2 - desenvolvimento.tex [10
 
 
 
 
- <./conteudo//2 - ages I//conteudo//figures/fototime.jpg>]
-<conteudo/2 - ages I/conteudo/figures/figma1.png, id=154, 1138.2525pt x 604.257
-5pt>
+] [11 <./conteudo//2 - ages I//conteudo//figures/fototime.jpg>] [12]
+<conteudo/2 - ages I/conteudo/figures/figma1.png, id=187, 1138.2525pt x 604.2575pt>
 File: conteudo/2 - ages I/conteudo/figures/figma1.png Graphic file (type png)
 <use conteudo/2 - ages I/conteudo/figures/figma1.png>
-Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/figma1.png  used 
-on input line 45.
+Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/figma1.png  used on input line 34.
 (pdftex.def)             Requested size: 455.24411pt x 241.67105pt.
- [11])
-(./conteudo/2 - ages I/conteudo/3 - atividades.tex
-(./conteudo/2 - ages I/conteudo/sprints/sprint 0.tex)
-(./conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [12 <./conteudo/2 - ages I
-/conteudo/figures/figma1.png>])
-(./conteudo/2 - ages I/conteudo/sprints/sprint 2.tex)
-(./conteudo/2 - ages I/conteudo/sprints/sprint 3.tex)
-(./conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [13]))
-(./conteudo/2 - ages I/conteudo/4 - conclusao.tex [14])) [15]
+) (./conteudo/2 - ages I/conteudo/3 - atividades.tex [13 <./conteudo/2 - ages I/conteudo/figures/figma1.png>] (./conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [14]) (./conteudo/2 - ages I/conteudo/sprints/sprint 2.tex [15]) (./conteudo/2 - ages I/conteudo/sprints/sprint 3.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [16])) (./conteudo/2 - ages I/conteudo/4 - conclusao.tex [17])) [18]
 \openout2 = `"conteudo/3 - ages II/index.aux"'.
 
-
-(./conteudo/3 - ages II/index.tex
+ (./conteudo/3 - ages II/index.tex
 Cap\'{\i }tulo 3.
 (./conteudo/3 - ages II/conteudo/1 - introducao.tex
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-1.
-
-(/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/ts1phv.fd
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 7.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=195, 3035.34pt x 2276.5
-05pt>
-File: conteudo/3 - ages II/conteudo/figures/fototime.jpg Graphic file (type jpg
-)
+<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=228, 3035.34pt x 2276.505pt>
+File: conteudo/3 - ages II/conteudo/figures/fototime.jpg Graphic file (type jpg)
 <use conteudo/3 - ages II/conteudo/figures/fototime.jpg>
-Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/fototime.jpg  us
-ed on input line 17.
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/fototime.jpg  used on input line 13.
 (pdftex.def)             Requested size: 455.24411pt x 341.42628pt.
-)
-(./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [16
+) (./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [19
 
 
 
 
- <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>] [17]
-<conteudo/3 - ages II/conteudo/figures/figma2.png, id=214, 1927.2pt x 1084.05pt
->
+] [20 <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>] [21]
+<conteudo/3 - ages II/conteudo/figures/figma2.png, id=258, 1927.2pt x 1084.05pt>
 File: conteudo/3 - ages II/conteudo/figures/figma2.png Graphic file (type png)
 <use conteudo/3 - ages II/conteudo/figures/figma2.png>
-Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/figma2.png  used
- on input line 48.
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/figma2.png  used on input line 48.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
-)
-(./conteudo/3 - ages II/conteudo/3 - atividades.tex
-(./conteudo/3 - ages II/conteudo/sprints/sprint 0.tex [18 <./conteudo/3 - ages 
-II/conteudo/figures/figma2.png>])
-(./conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [19])
-(./conteudo/3 - ages II/conteudo/sprints/sprint 2.tex)
-(./conteudo/3 - ages II/conteudo/sprints/sprint 3.tex [20])
-(./conteudo/3 - ages II/conteudo/sprints/sprint 4.tex [21]))
-(./conteudo/3 - ages II/conteudo/4 - conclusao.tex [22])) [23]
+) (./conteudo/3 - ages II/conteudo/3 - atividades.tex [22 <./conteudo/3 - ages II/conteudo/figures/figma2.png>] (./conteudo/3 - ages II/conteudo/sprints/sprint 0.tex) (./conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [23]) (./conteudo/3 - ages II/conteudo/sprints/sprint 2.tex [24]) (./conteudo/3 - ages II/conteudo/sprints/sprint 3.tex [25]) (./conteudo/3 - ages II/conteudo/sprints/sprint 4.tex [26])) (./conteudo/3 - ages II/conteudo/4 - conclusao.tex) [27]) [28]
 \openout2 = `"conteudo/4 - ages III/index.aux"'.
 
-
-(./conteudo/4 - ages III/index.tex
+ (./conteudo/4 - ages III/index.tex
 Cap\'{\i }tulo 4.
 (./conteudo/4 - ages III/conteudo/1 - introducao.tex
-<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=269, 1068.993
-74pt x 826.08624pt>
-File: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg Graphic file
- (type jpg)
+<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=332, 1068.99374pt x 826.08624pt>
+File: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFos
-se.jpg  used on input line 10.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg  used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 351.79419pt.
-)
-(./conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [24
+) (./conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [29
 
 
 
 
 ]
 Overfull \hbox (7.81723pt too wide) in paragraph at lines 5--6
-[]\T1/phv/m/n/12 Repositório para o fron-tend: [][]https://tools.ages.pucrs.br/
-se-doce-fosse/frontend[][], onde
+[]\T1/phv/m/n/12 Repositório para o fron-tend: [][]https://tools.ages.pucrs.br/se-doce-fosse/frontend[][], onde
  []
 
 
 Overfull \hbox (9.52203pt too wide) in paragraph at lines 6--7
-[]\T1/phv/m/n/12 Repositório para o bac-kend: [][]https://tools.ages.pucrs.br/s
-e-doce-fosse/backend[][], onde
+[]\T1/phv/m/n/12 Repositório para o bac-kend: [][]https://tools.ages.pucrs.br/se-doce-fosse/backend[][], onde
  []
 
-[25 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>
-]
-<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=288, 1165.35374
-pt x 726.715pt>
-File: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png Graphic file (
-type png)
+[30 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>]
+<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=350, 1165.35374pt x 726.715pt>
+File: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png Graphic file (type png)
 <use conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse
-.png  used on input line 18.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 283.88342pt.
- [26]
+ [31]
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
- [27 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
-<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=312, 1322.
-69156pt x 346.29375pt>
-File: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png Graphic f
-ile (type png)
+ [32 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
+<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=372, 1322.69156pt x 346.29375pt>
+File: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png Graphic file (type png)
 <use conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/diagrama-sedoce
-fosse.png  used on input line 31.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png  used on input line 31.
 (pdftex.def)             Requested size: 455.24411pt x 119.18613pt.
-<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=313, 1485.55pt x 1
-408.26125pt>
-File: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg Graphic file (typ
-e jpg)
+<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=373, 1485.55pt x 1408.26125pt>
+File: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jp
-g  used on input line 43.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 431.5497pt.
-
-[28 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
-<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=320, 1485.55pt x 
-1520.68124pt>
-File: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg Graphic file (ty
-pe jpg)
+ [33 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
+<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=380, 1485.55pt x 1520.68124pt>
+File: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.j
-pg  used on input line 52.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 465.99986pt.
-
-[29 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=325, 1927.2pt
- x 1084.05pt>
-File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file
- (type jpg)
+ [34 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=385, 1927.2pt x 1084.05pt>
+File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdm
-in.jpg  used on input line 61.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg  used on input line 61.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [30 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=331, 1927.2pt x 1084
-.05pt>
-File: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg Graphic file (type 
-jpg)
+ [35 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=390, 1927.2pt x 1084.05pt>
+File: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg>
-Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg 
- used on input line 70.
+Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg  used on input line 70.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [31 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteu
-do/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (./conteudo/4 - ages III/con
-teudo/3 - atividades.tex
-(./conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [32])
-(./conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [33])
-(./conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [34])
-(./conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [35])
-(./conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [36]))
-(./conteudo/4 - ages III/conteudo/4 - conclusao.tex [37])) [38] [39]
+ [36 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (./conteudo/4 - ages III/conteudo/3 - atividades.tex (./conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [37]) (./conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [38]) (./conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [39]) (./conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [40]) (./conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [41])) (./conteudo/4 - ages III/conteudo/4 - conclusao.tex [42])) [43] [44]
 \openout2 = `"conteudo/5 - ages IV/index.aux"'.
 
-
-(./conteudo/5 - ages IV/index.tex
+ (./conteudo/5 - ages IV/index.tex
 Cap\'{\i }tulo 5.
 (./conteudo/5 - ages IV/conteudo/1 - introducao.tex
-<conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg, id=393, 2
-168.1pt x 2890.8pt>
-File: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg Graph
-ic file (type jpg)
+<conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg, id=454, 2168.1pt x 2890.8pt>
+File: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg Graphic file (type jpg)
 <use conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAl
-egreAlema.jpg  used on input line 13.
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg  used on input line 13.
 (pdftex.def)             Requested size: 455.24411pt x 606.9536pt.
-)
-(./conteudo/5 - ages IV/conteudo/2 - desenvolvimento.tex [40
+) (./conteudo/5 - ages IV/conteudo/2 - desenvolvimento.tex [45
 
 
 
 
-] [41 <./conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>]
-<conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png, id
-=408, 615.29875pt x 597.23125pt>
-File: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.pn
-g Graphic file (type png)
-<use conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
->
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUma
-PortoAlegreAlema.png  used on input line 22.
+] [46 <./conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>]
+<conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png, id=468, 615.29875pt x 597.23125pt>
+File: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png Graphic file (type png)
+<use conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png>
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png  used on input line 22.
 (pdftex.def)             Requested size: 455.24411pt x 441.8804pt.
- [42] [43 <./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreA
-lema.png>]
-<conteudo/5 - ages IV/conteudo/figures/LandingPage.png, id=444, 402.50375pt x 1
-500.60625pt>
-File: conteudo/5 - ages IV/conteudo/figures/LandingPage.png Graphic file (type 
-png)
+ [47] [48 <./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png>]
+<conteudo/5 - ages IV/conteudo/figures/LandingPage.png, id=504, 402.50375pt x 1500.60625pt>
+File: conteudo/5 - ages IV/conteudo/figures/LandingPage.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/LandingPage.png>
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/LandingPage.png 
- used on input line 42.
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/LandingPage.png  used on input line 42.
 (pdftex.def)             Requested size: 141.38203pt x 527.09764pt.
- [44]
-<conteudo/5 - ages IV/conteudo/figures/Mapa.png, id=452, 403.5075pt x 877.2775p
-t>
+ [49]
+<conteudo/5 - ages IV/conteudo/figures/Mapa.png, id=511, 403.5075pt x 877.2775pt>
 File: conteudo/5 - ages IV/conteudo/figures/Mapa.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/Mapa.png>
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/Mapa.png  used o
-n input line 52.
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/Mapa.png  used on input line 52.
 (pdftex.def)             Requested size: 227.62505pt x 494.88632pt.
-
-[45 <./conteudo/5 - ages IV/conteudo/figures/LandingPage.png>]
-<conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg, id=458, 461.725pt x 9
-40.51375pt>
-File: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg Graphic file (typ
-e jpg)
+ [50 <./conteudo/5 - ages IV/conteudo/figures/LandingPage.png>]
+<conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg, id=517, 461.725pt x 940.51375pt>
+File: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg Graphic file (type jpg)
 <use conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jp
-g  used on input line 62.
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg  used on input line 62.
 (pdftex.def)             Requested size: 227.62108pt x 463.65424pt.
- [46 <./conteudo/5 - ages IV/conteudo/figures/Mapa.png>]
-<conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png, id=464, 402.5037
-5pt x 1221.56375pt>
-File: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png Graphic file
- (type png)
+ [51 <./conteudo/5 - ages IV/conteudo/figures/Mapa.png>]
+<conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png, id=524, 402.50375pt x 1221.56375pt>
+File: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>
-Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheEdificaco
-es.png  used on input line 72.
+Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png  used on input line 72.
 (pdftex.def)             Requested size: 173.68126pt x 527.1075pt.
- [47 <./conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>] [48 <./conteu
-do/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages 
-IV/conteudo/3 - atividades.tex
-(./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [49])
-(./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [50])
-(./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex)
-(./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex)
-(./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [51]))
-(./conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [52]
+ [52 <./conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>] [53 <./conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages IV/conteudo/3 - atividades.tex (./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [54]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [55]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [56])) (./conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [57]
 \openout2 = `"conteudo/6 - consideracoes/consideracoes.aux"'.
 
-
-(./conteudo/6 - consideracoes/consideracoes.tex
+ (./conteudo/6 - consideracoes/consideracoes.tex
 Cap\'{\i }tulo 6.
-) [53
+) [58
 
 
 
@@ -1605,17 +1349,15 @@ Cap\'{\i }tulo 6.
 ]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (./conteudo/7 - pos/referencias.tex [54
+ (./conteudo/7 - pos/referencias.tex [59
 
 
 
 
-{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}])
- [55]
+{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [60]
 \openout2 = `"conteudo/8 - apendices/apendices.aux"'.
 
-
-(./conteudo/8 - apendices/apendices.tex) [56
+ (./conteudo/8 - apendices/apendices.tex) [61
 
 
 
@@ -1630,18 +1372,7 @@ Cap\'{\i }tulo 6.
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- (./main.aux
-(./conteudo/0 - pre/0.1 - capa.aux) (./conteudo/0 - pre/0.2 - dedicatoria.aux)
-(./conteudo/0 - pre/0.3 - agradecimentos.aux)
-(./conteudo/0 - pre/0.4 - epigrafe.aux) (./conteudo/0 - pre/0.5 - resumo.aux)
-(./conteudo/0 - pre/0.6 - ilustracoes.aux)
-(./conteudo/0 - pre/0.7 - tabelas.aux) (./conteudo/0 - pre/0.8 - siglas.aux)
-(./conteudo/0 - pre/0.9 - sumario.aux)
-(./conteudo/1 - apresentacao/apresentacao.aux) (./conteudo/2 - ages I/index.aux
-) (./conteudo/3 - ages II/index.aux) (./conteudo/4 - ages III/index.aux)
-(./conteudo/5 - ages IV/index.aux)
-(./conteudo/6 - consideracoes/consideracoes.aux)
-(./conteudo/7 - pos/referencias.aux) (./conteudo/8 - apendices/apendices.aux))
+ (./main.aux (./conteudo/0 - pre/0.1 - capa.aux) (./conteudo/0 - pre/0.2 - dedicatoria.aux) (./conteudo/0 - pre/0.3 - agradecimentos.aux) (./conteudo/0 - pre/0.4 - epigrafe.aux) (./conteudo/0 - pre/0.5 - resumo.aux) (./conteudo/0 - pre/0.6 - ilustracoes.aux) (./conteudo/0 - pre/0.7 - tabelas.aux) (./conteudo/0 - pre/0.8 - siglas.aux) (./conteudo/0 - pre/0.9 - sumario.aux) (./conteudo/1 - apresentacao/apresentacao.aux) (./conteudo/2 - ages I/index.aux) (./conteudo/3 - ages II/index.aux) (./conteudo/4 - ages III/index.aux) (./conteudo/5 - ages IV/index.aux) (./conteudo/6 - consideracoes/consideracoes.aux) (./conteudo/7 - pos/referencias.aux) (./conteudo/8 - apendices/apendices.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1655,22 +1386,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26731 strings out of 467525
- 493220 string characters out of 5418982
- 1459973 words of memory out of 5000000
- 54935 multiletter control sequences out of 15000+600000
+ 26758 strings out of 467525
+ 493721 string characters out of 5418982
+ 1460324 words of memory out of 5000000
+ 54955 multiletter control sequences out of 15000+600000
  649293 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,107p,2248b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><
-/usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/lo
-cal/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/tex
-live/2026/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (57 pages, 10905047 bytes).
+ 99i,12n,107p,1766b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (62 pages, 10915800 bytes).
 PDF statistics:
- 696 PDF objects out of 1000 (max. 8388607)
- 597 compressed objects within 6 object streams
- 178 named destinations out of 1000 (max. 500000)
+ 758 PDF objects out of 1000 (max. 8388607)
+ 653 compressed objects within 7 object streams
+ 184 named destinations out of 1000 (max. 500000)
  302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

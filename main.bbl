@@ -333,6 +333,36 @@
       \verb https://www.figma.com/
       \endverb
     \endentry
+    \entry{git}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4e38df11fc55ae1ee3d80194667fb0d}{%
+           family={{Git Community}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{fullhash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{fullhashraw}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{bibnamehash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{authorbibnamehash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{authornamehash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{authorfullhash}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \strng{authorfullhashraw}{c4e38df11fc55ae1ee3d80194667fb0d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessado em: 16/11/2024}
+      \field{title}{Git: Distributed Version Control System}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://git-scm.com/
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/
+      \endverb
+    \endentry
     \entry{java}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a798529b7edde2afc14297cab558b16}{%

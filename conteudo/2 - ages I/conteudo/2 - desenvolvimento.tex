@@ -1,57 +1,42 @@
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=blue,      
-    urlcolor=blue,
-    citecolor=blue,
-}
-
-
 \section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
 
 \subsection{Repositório do Código Fonte do Projeto}
-Os repositórios foram divididos entre backend, frontend, e wiki do projeto.
+O código fonte do projeto foi organizado em repositórios no GitLab da AGES, separados entre \textit{backend}, \textit{frontend} e \textit{wiki}. Essa divisão ajudou o time a manter responsabilidades mais claras: o \textit{backend} concentrava as regras de negócio e as APIs, o \textit{frontend} reunia o aplicativo mobile e a \textit{wiki} servia como espaço de documentação do projeto, decisões e materiais de apoio.
 
-Repositório para o \href{https://tools.ages.pucrs.br/informativo-paraimigrantes/informativo-para-imigrantes-backend}{backend}
+Durante as sprints, também utilizei pela primeira vez em um projeto o versionamento com Git \cite{git} para subir minhas alterações, abrir branches e permitir que os colegas mais experientes revisassem o código. No início eu ainda tinha pouca prática com esse fluxo, mas ao longo do projeto percebi a importância de fazer commits com mais frequência para receber feedback mais cedo.
 
-Repositório para o \href{https://tools.ages.pucrs.br/informativo-paraimigrantes/informativo-para-imigrantes-frontend}{frontend}
+\par Repositório para o \href{https://tools.ages.pucrs.br/informativo-para-imigrantes/informativo-para-imigrantes-backend}{\textit{backend}}
 
-Repositório para \href{https://tools.ages.pucrs.br/informativo-paraimigrantes/wiki}{wiki}
+\par Repositório para o \href{https://tools.ages.pucrs.br/informativo-para-imigrantes/informativo-para-imigrantes-frontend}{\textit{frontend}}
+
+\par Repositório para a \href{https://tools.ages.pucrs.br/informativo-para-imigrantes/wiki}{\textit{wiki}}
 
 
 
 \subsection{Banco de Dados Utilizado}
-  No banco de dados, estamos utilizando o SQL Server. Este foi
-implentando nas Sprints finais e, eu, como AGES I não obtive partcipação
-simbólica para a implementação.
+O banco de dados utilizado no projeto foi o SQL Server. Ele foi incorporado principalmente nas sprints finais e tinha o papel de persistir as informações consumidas pela aplicação, como cadastros, programas ofertados e dados necessários para que o \textit{backend} respondesse às requisições feitas pelo aplicativo.
+
+O time não disponibilizou imagens e figuras sobre a modelagem do banco de dados, mas a estrutura geral seguia um modelo relacional, com tabelas para usuários, programas, instituições e outras entidades relevantes para o funcionamento do aplicativo. Para mim, essa foi a primeira experiência prática com um banco de dados em um projeto real, o que me ajudou a entender melhor como as informações são organizadas e acessadas por meio de APIs.
 
 \subsection{Arquitetura Utilizada}
- O projeto usa Java 11 e Spring Boot e possui três camadas: Controller
-(apresentação), Service (lógica de negócios) e Repository (acesso a dados). Os
-módulos incluem configurações, controle de rotas, objetos de transporte de dados,
-entidades de banco de dados, enums, mensagens, comunicação com o banco de
-dados, segurança, regras de negócios e utilitários. No frontend, há estruturas para
-recursos, componentes, telas, rotas, serviços, utilitários, hooks e acesso a APIs.
-Essas estruturas organizam o projeto de forma eficiente.
+O \textit{backend} foi desenvolvido em Java 11 \cite{java} com Spring Boot \cite{springboot}, seguindo uma organização em camadas. A camada de \textit{Controller} ficava responsável por receber as requisições, a camada de \textit{Service} concentrava as regras de negócio e a camada de \textit{Repository} fazia a comunicação com o banco de dados. Essa separação ajudava a deixar o código mais organizado e facilitava o entendimento de onde cada responsabilidade deveria ficar.
+
+No \textit{frontend}, o projeto foi estruturado em React Native \cite{reactnative} com TypeScript \cite{typescript}, organizado em componentes, telas, rotas, serviços, utilitários e chamadas para APIs. Essa organização permitia que o time trabalhasse de forma mais modular, facilitando a manutenção e a evolução do código ao longo das sprints. Para mim, essa foi uma oportunidade valiosa de aprender sobre arquitetura de software e como organizar um projeto de forma eficiente, já que atuei a maior parte do tempo no \textit{frontend}.
 
 \subsection{Protótipos das Telas Desenvolvidas}
-Utilizamos o Figma para o protótipo de telas, onde mostramos para o cliente a
-ideia inicial do visual do aplicativo e como implementaríamos as funções que
-eles gostariam que o programa tivesse.
+Utilizamos o Figma \cite{figma} para construir os protótipos das telas e apresentar aos stakeholders a ideia inicial do aplicativo. Esses protótipos ajudaram o time a validar o fluxo de navegação, discutir a organização das informações e transformar as necessidades dos clientes em telas mais concretas antes do desenvolvimento. Para mim, como alguém que estava começando no \textit{frontend}, o Figma também serviu como referência visual para implementar componentes e telas com mais segurança.
+
+A Figura~\ref{fig:ages-i-figma} apresenta um exemplo de protótipo utilizado durante o projeto.
 \begin{figure}[H]
     \centering
     \small
-    \caption{Protótipo no Figma}
+    \caption{Protótipo no Figma - AGES I}
     \includegraphics[width=1\linewidth]{conteudo/2 - ages I/conteudo/figures/figma1.png}
     Fonte: figma do projeto
-    \label{fig:projeto-time}
+    \label{fig:ages-i-figma}
 \end{figure}
 
 \subsection{Tecnologias Utilizadas}
-Na primeira aula, iniciamos a discussão de quais tecnologias
-seriam utilizadas. Pelo backend, foi definido que utilizaríamos Java,
-com o framework Spring Boot, visto que o grupo tudo tinha
-familiaridade com a linguagem, já que esta é ensinada nas disciplinas
-da faculdade. Já no lado do frontend, decidimos utilizar TypeScript
-com o framework React Native, já que o aplicativo seria desenvolvido
-tanto para iOS, tanto para Android.
+Em nosso primeiro encontro, discutimos quais tecnologias seriam utilizadas. No \textit{backend}, o time definiu Java com Spring Boot, pois a linguagem já era conhecida por boa parte do grupo em função das disciplinas da faculdade. No \textit{frontend}, utilizamos React Native com TypeScript, escolha adequada para um aplicativo mobile que precisava funcionar tanto em Android quanto em iOS.
+
+Também usamos o Figma para os protótipos, o Postman para testar requisições e o GitLab para organizar código, tarefas e documentação. Para mim, essas tecnologias representaram um primeiro contato mais real com desenvolvimento de software em equipe. Eu já tinha visto programação em sala de aula, mas ainda não tinha tido a experiência de conectar interface, API, banco de dados e principalmente trabalhar com versionamento e colaboração em um projeto real.
