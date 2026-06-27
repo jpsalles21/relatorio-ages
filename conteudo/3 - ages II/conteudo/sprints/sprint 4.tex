@@ -1,6 +1,6 @@
 \subsection{Sprint 4}
 
-Na Sprint 4, depois de uma apresentação ao cliente, fomos informados de que não poderíamos seguir utilizando dados sensíveis do paciente, como nome completo, CPF e telefone. Por questões de privacidade e LGPD //falta add sigla, reorganizamos o cadastro para trabalhar com apelido, CEP e sexo. A partir disso, fiquei responsável pelo \textit{remap} dos dados do paciente no \textit{frontend}, o que exigiu alterações em diversos arquivos.
+Na Sprint 4, depois de uma apresentação ao cliente, fomos informados de que não poderíamos seguir utilizando dados sensíveis do paciente, como nome completo, \ac{cpf} e telefone. Por questões de privacidade e \ac{lgpd}, reorganizamos o cadastro para trabalhar com apelido, \ac{cep} e sexo. A partir disso, fiquei responsável pelo \textit{remap} dos dados do paciente no \textit{frontend}, o que exigiu alterações em diversos arquivos.
 
 Comecei substituindo nome por apelido, uma mudança mais simples por envolver campos de texto parecidos. A alteração de CPF para CEP foi mais trabalhosa, porque havia validadores e formatadores que precisavam ser ajustados. Ao adicionar o campo de sexo, criei um \textit{dropdown} no cadastro de pacientes e revisei a estilização do componente para manter a interface consistente com os cards e com o restante da página.
 
