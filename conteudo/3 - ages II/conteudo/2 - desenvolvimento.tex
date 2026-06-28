@@ -1,41 +1,47 @@
 \section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
 
 \subsection{Repositório do Código Fonte do Projeto}
-  Os repositório foram divididos entre web-medico, web-site, web-administrador,
-api-medico, api-administrador, auth, infra e wiki.
-
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{\textit{web-site}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{\textit{web-medico}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{\textit{web-administrador}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{\textit{api-medico}}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{\textit{auth}}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/infra}{\textit{infra}}
-\par Repositório para a \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{\textit{wiki}}
+  Os repositórios foram divididos entre \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{\textit{web-medico}}, \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{\textit{web-site}}, \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{\textit{web-administrador}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{\textit{api-medico}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-administrador}{\textit{api-administrador}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{\textit{auth}}, \href{https://tools.ages.pucrs.br/let-me-trial/infra}{\textit{infra}} e \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{\textit{wiki}}.
 
 \subsection{Banco de Dados Utilizado}
 No banco de dados, o projeto utilizou PostgreSQL \cite{postgresql}, escolhido por ser um banco relacional robusto e adequado para representar entidades com relacionamentos claros. Diferente da minha experiência na AGES I, em que eu tive pouco contato com a persistência, na AGES II precisei entender melhor como os dados se relacionavam, porque o filtro de estudos e o cadastro de pacientes dependiam diretamente dessas informações.
 
 As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, \textit{Estudo}, \textit{Criterio}, \textit{CriterioEstudo} e \textit{Resposta}. A entidade \textit{Paciente} armazenava os dados necessários para a triagem; \textit{Medico} representava o profissional que utilizaria a plataforma; \textit{Area} organizava as subáreas dos estudos; \textit{Estudo} concentrava as informações dos ensaios clínicos; \textit{Criterio} guardava as perguntas ou condições avaliadas; \textit{CriterioEstudo} fazia a relação entre um estudo e seus critérios, indicando resposta esperada e se o critério era opcional; e \textit{Resposta} registrava a resposta de um paciente para determinado critério.
 
-// Falta adicionar figura
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Modelagem do banco de dados}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/bd-agesII.png}
+    Fonte: documentação do projeto
+    \label{fig:ages-ii-banco}
+\end{figure}
 
 \subsection{Arquitetura Utilizada}
- No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
+No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
 de design de software que divide o sistema em três partes principais:
-Domínio: o coração do sistema, onde estão as regras de negócio e entidades
-importantes. Aplicação: coordena as ações do sistema e lida com interações entre o
-domínio e o mundo externo. Adaptadores: conecta o sistema ao mundo externo,
+domínio, aplicação e adaptadores. O domínio é o coração do sistema, onde estão as regras de negócio e entidades
+importantes; a aplicação coordena as ações do sistema e lida com interações entre o
+domínio e o mundo externo; e os adaptadores conectam o sistema ao mundo externo,
 permitindo interações sem que o domínio precise saber dos detalhes técnicos.
 No frontend, utilizamos o núcleo/core e seus submódulos, como core/domain para
 definir as entidades principais da aplicação, como usuários e médicos. O
 core/useCases é essencial para dividir a lógica de negócios em casos de uso
-13
 comuns e específicos para diferentes tipos de usuários, enquanto o
 adapters/presenter nos ajuda a adaptar os dados da lógica de negócios para a
 interface do usuário. Os frameworks/ui são vitais para organizar os componentes e
 páginas da interface do usuário, enquanto os frameworks/services facilitam a
 comunicação com APIs externas. Por fim, os utils são úteis para funções utilitárias,
 como autenticação e verificação do tipo de usuário
+
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Arquitetura do Projeto}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png}
+    Fonte: documentação do projeto
+    \label{fig:ages-ii-arquitetura}
+\end{figure}
 
 \subsection{Protótipos das Telas Desenvolvidas}
 Os protótipos foram desenvolvidos no Figma \cite{figma} e serviram como referência para validar o fluxo com os stakeholders antes de implementar as telas. Eles foram especialmente importantes no início do projeto, quando ainda estávamos discutindo como seria a navegação, como o médico faria a triagem e como os estudos seriam apresentados.
@@ -50,7 +56,25 @@ Para mim, os protótipos ajudaram a transformar discussões abstratas em tarefas
     \label{fig:ages-ii-figma}
 \end{figure}
 
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo da tela de estudos}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png}
+    Fonte: figma do projeto
+    \label{fig:ages-ii-estudos}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo da tela de pacientes}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png}
+    Fonte: figma do projeto
+    \label{fig:ages-ii-pacientes}
+\end{figure}
+
 \subsection{Tecnologias Utilizadas}
 No \textit{backend}, utilizamos Java 21 \cite{java} com Spring Boot \cite{springboot}, além de JUnit para testes. Essa escolha foi feita porque boa parte do grupo já tinha familiaridade com Java, o que ajudaria na produtividade e na qualidade das entregas. O PostgreSQL foi utilizado como banco de dados relacional para armazenar as entidades principais do sistema, trazendo robustez.
 
-No \textit{frontend}, utilizamos React \cite{react} com TypeScript \cite{typescript} e Next.js \cite{nextjs}. Também usamos Material UI \cite{materialui} para acelerar a construção de componentes visuais e manter uma interface mais consistente. Durante as integrações, utilizei o Postman \cite{postman} para testar APIs antes de conectar as funcionalidades nas telas. Na sprint final, também tive contato com Docker \cite{docker} e com o fluxo de autenticação, o que ampliou bastante minha visão sobre como uma aplicação web funciona além da parte visual.
+No \textit{frontend}, utilizamos React \cite{react} com TypeScript \cite{typescript} e Next.js \cite{nextjs}. Também usamos Material \ac{ui} \cite{materialui} para acelerar a construção de componentes visuais e manter uma interface mais consistente. Durante as integrações, utilizei o Postman \cite{postman} para testar \ac{api}s antes de conectar as funcionalidades nas telas. Na sprint final, também tive contato com Docker \cite{docker} e com o fluxo de autenticação, o que ampliou bastante minha visão sobre como uma aplicação web funciona além da parte visual.
