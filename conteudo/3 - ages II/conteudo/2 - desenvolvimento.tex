@@ -17,7 +17,14 @@ No banco de dados, o projeto utilizou PostgreSQL \cite{postgresql}, escolhido po
 
 As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, \textit{Estudo}, \textit{Criterio}, \textit{CriterioEstudo} e \textit{Resposta}. A entidade \textit{Paciente} armazenava os dados necessários para a triagem; \textit{Medico} representava o profissional que utilizaria a plataforma; \textit{Area} organizava as subáreas dos estudos; \textit{Estudo} concentrava as informações dos ensaios clínicos; \textit{Criterio} guardava as perguntas ou condições avaliadas; \textit{CriterioEstudo} fazia a relação entre um estudo e seus critérios, indicando resposta esperada e se o critério era opcional; e \textit{Resposta} registrava a resposta de um paciente para determinado critério.
 
-// Falta adicionar figura
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Modelagem do banco de dados}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/bd-agesII.png}
+    Fonte: documentação do projeto
+    \label{fig:ages-ii-banco}
+\end{figure}
 
 \subsection{Arquitetura Utilizada}
  No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
@@ -37,6 +44,15 @@ páginas da interface do usuário, enquanto os frameworks/services facilitam a
 comunicação com APIs externas. Por fim, os utils são úteis para funções utilitárias,
 como autenticação e verificação do tipo de usuário
 
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Arquitetura do Projeto}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png}
+    Fonte: documentação do projeto
+    \label{fig:ages-ii-arquitetura}
+\end{figure}
+
 \subsection{Protótipos das Telas Desenvolvidas}
 Os protótipos foram desenvolvidos no Figma \cite{figma} e serviram como referência para validar o fluxo com os stakeholders antes de implementar as telas. Eles foram especialmente importantes no início do projeto, quando ainda estávamos discutindo como seria a navegação, como o médico faria a triagem e como os estudos seriam apresentados.
 
@@ -48,6 +64,24 @@ Para mim, os protótipos ajudaram a transformar discussões abstratas em tarefas
     \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/figma2.png}
     Fonte: figma do projeto
     \label{fig:ages-ii-figma}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo da tela de estudos}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png}
+    Fonte: figma do projeto
+    \label{fig:ages-ii-estudos}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Protótipo da tela de pacientes}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png}
+    Fonte: figma do projeto
+    \label{fig:ages-ii-pacientes}
 \end{figure}
 
 \subsection{Tecnologias Utilizadas}

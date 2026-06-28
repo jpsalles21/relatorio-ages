@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  27 JUN 2026 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  27 JUN 2026 21:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1200,7 +1200,7 @@ Cap\'{\i }tulo 2.
 (./conteudo/2 - ages I/conteudo/1 - introducao.tex
 Package acronym Info: Label `acro:ong' newly defined as it shall be overridden
 although it is yet undefined on input line 6.
-<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=265, 4047.12pt x 3035.34pt>
+<conteudo//2 - ages I//conteudo//figures/fototime.jpg, id=279, 4047.12pt x 3035.34pt>
 File: conteudo//2 - ages I//conteudo//figures/fototime.jpg Graphic file (type jpg)
 <use conteudo//2 - ages I//conteudo//figures/fototime.jpg>
 Package pdftex.def Info: conteudo//2 - ages I//conteudo//figures/fototime.jpg  used on input line 14.
@@ -1216,13 +1216,29 @@ although it is yet undefined on input line 4.
  [12 <./conteudo//2 - ages I//conteudo//figures/fototime.jpg>]
 Package acronym Info: Label `acro:sql' newly defined as it shall be overridden
 although it is yet undefined on input line 17.
+<conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png, id=307, 1357.07pt x 607.26875pt>
+File: conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png Graphic file (type png)
+<use conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png>
+Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png  used on input line 30.
+(pdftex.def)             Requested size: 455.24411pt x 203.70732pt.
  [13]
-<conteudo/2 - ages I/conteudo/figures/figma1.png, id=307, 1138.2525pt x 604.2575pt>
+<conteudo/2 - ages I/conteudo/figures/figma1.png, id=323, 1138.2525pt x 604.2575pt>
 File: conteudo/2 - ages I/conteudo/figures/figma1.png Graphic file (type png)
 <use conteudo/2 - ages I/conteudo/figures/figma1.png>
-Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/figma1.png  used on input line 34.
+Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/figma1.png  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 241.67105pt.
-) (./conteudo/2 - ages I/conteudo/3 - atividades.tex [14 <./conteudo/2 - ages I/conteudo/figures/figma1.png>] (./conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [15]) (./conteudo/2 - ages I/conteudo/sprints/sprint 2.tex [16]) (./conteudo/2 - ages I/conteudo/sprints/sprint 3.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [17])) (./conteudo/2 - ages I/conteudo/4 - conclusao.tex [18])) [19]
+ [14 <./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png>]
+<conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png, id=331, 549.252pt x 295.70474pt>
+File: conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png Graphic file (type png)
+<use conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png>
+Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png  used on input line 52.
+(pdftex.def)             Requested size: 455.24411pt x 245.09195pt.
+<conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png, id=332, 390.258pt x 415.5525pt>
+File: conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png Graphic file (type png)
+<use conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png>
+Package pdftex.def Info: conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png  used on input line 61.
+(pdftex.def)             Requested size: 455.24411pt x 484.7551pt.
+ [15 <./conteudo/2 - ages I/conteudo/figures/figma1.png> <./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png>]) (./conteudo/2 - ages I/conteudo/3 - atividades.tex [16 <./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png>] (./conteudo/2 - ages I/conteudo/sprints/sprint 0.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 1.tex [17]) (./conteudo/2 - ages I/conteudo/sprints/sprint 2.tex [18]) (./conteudo/2 - ages I/conteudo/sprints/sprint 3.tex) (./conteudo/2 - ages I/conteudo/sprints/sprint 4.tex [19])) (./conteudo/2 - ages I/conteudo/4 - conclusao.tex [20])) [21]
 \openout2 = `"conteudo/3 - ages II/index.aux"'.
 
  (./conteudo/3 - ages II/index.tex
@@ -1232,48 +1248,72 @@ LaTeX Font Info:    Trying to load font information for TS1+phv on input line 7.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=348, 3035.34pt x 2276.505pt>
+<conteudo/3 - ages II/conteudo/figures/fototime.jpg, id=376, 3035.34pt x 2276.505pt>
 File: conteudo/3 - ages II/conteudo/figures/fototime.jpg Graphic file (type jpg)
 <use conteudo/3 - ages II/conteudo/figures/fototime.jpg>
 Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/fototime.jpg  used on input line 13.
 (pdftex.def)             Requested size: 455.24411pt x 341.42628pt.
-) (./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [20
+) (./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex [22
 
 
 
 
-] [21 <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>] [22]
-<conteudo/3 - ages II/conteudo/figures/figma2.png, id=378, 1927.2pt x 1084.05pt>
+] [23 <./conteudo/3 - ages II/conteudo/figures/fototime.jpg>]
+<conteudo/3 - ages II/conteudo/figures/bd-agesII.png, id=395, 1159.33125pt x 750.805pt>
+File: conteudo/3 - ages II/conteudo/figures/bd-agesII.png Graphic file (type png)
+<use conteudo/3 - ages II/conteudo/figures/bd-agesII.png>
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/bd-agesII.png  used on input line 24.
+(pdftex.def)             Requested size: 455.24411pt x 294.81763pt.
+ [24 <./conteudo/3 - ages II/conteudo/figures/bd-agesII.png>]
+<conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png, id=405, 1313.90875pt x 1196.47pt>
+File: conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png Graphic file (type png)
+<use conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png>
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png  used on input line 51.
+(pdftex.def)             Requested size: 455.24411pt x 414.5535pt.
+ [25]
+<conteudo/3 - ages II/conteudo/figures/figma2.png, id=415, 1927.2pt x 1084.05pt>
 File: conteudo/3 - ages II/conteudo/figures/figma2.png Graphic file (type png)
 <use conteudo/3 - ages II/conteudo/figures/figma2.png>
-Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/figma2.png  used on input line 48.
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/figma2.png  used on input line 64.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
+ [26 <./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png>]
+<conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png, id=422, 818.30719pt x 459.21562pt>
+File: conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png Graphic file (type png)
+<use conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png>
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png  used on input line 73.
+(pdftex.def)             Requested size: 455.24411pt x 255.4773pt.
+<conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png, id=423, 746.03719pt x 417.81094pt>
+File: conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png Graphic file (type png)
+<use conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png>
+Package pdftex.def Info: conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png  used on input line 82.
+(pdftex.def)             Requested size: 455.24411pt x 254.95355pt.
+ [27 <./conteudo/3 - ages II/conteudo/figures/figma2.png> <./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png>]
 Package acronym Info: Label `acro:ui' newly defined as it shall be overridden
-although it is yet undefined on input line 56.
-) (./conteudo/3 - ages II/conteudo/3 - atividades.tex [23 <./conteudo/3 - ages II/conteudo/figures/figma2.png>] (./conteudo/3 - ages II/conteudo/sprints/sprint 0.tex) (./conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [24]) (./conteudo/3 - ages II/conteudo/sprints/sprint 2.tex [25]) (./conteudo/3 - ages II/conteudo/sprints/sprint 3.tex
+although it is yet undefined on input line 90.
+) (./conteudo/3 - ages II/conteudo/3 - atividades.tex (./conteudo/3 - ages II/conteudo/sprints/sprint 0.tex [28 <./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png>]) (./conteudo/3 - ages II/conteudo/sprints/sprint 1.tex [29]) (./conteudo/3 - ages II/conteudo/sprints/sprint 2.tex [30]) (./conteudo/3 - ages II/conteudo/sprints/sprint 3.tex
 Package acronym Info: Label `acro:html' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
 Package acronym Info: Label `acro:css' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
- [26]) (./conteudo/3 - ages II/conteudo/sprints/sprint 4.tex
+ [31]) (./conteudo/3 - ages II/conteudo/sprints/sprint 4.tex
 Package acronym Info: Label `acro:cpf' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
 Package acronym Info: Label `acro:lgpd' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
 Package acronym Info: Label `acro:cep' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
- [27])) (./conteudo/3 - ages II/conteudo/4 - conclusao.tex [28])) [29]
+ [32])) (./conteudo/3 - ages II/conteudo/4 - conclusao.tex) [33]) [34]
 \openout2 = `"conteudo/4 - ages III/index.aux"'.
 
  (./conteudo/4 - ages III/index.tex
 Cap\'{\i }tulo 4.
 (./conteudo/4 - ages III/conteudo/1 - introducao.tex
-<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=460, 1068.99374pt x 826.08624pt>
+<conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg, id=507, 1068.99374pt x 826.08624pt>
 File: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg  used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 351.79419pt.
-) (./conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [30
+) (./conteudo/4 - ages III/conteudo/2 - desenvolvimento.tex [35
 
 
 
@@ -1293,13 +1333,13 @@ Overfull \hbox (9.52203pt too wide) in paragraph at lines 6--7
 []\T1/phv/m/n/12 Repositório para o bac-kend: [][]https://tools.ages.pucrs.br/se-doce-fosse/backend[][], onde
  []
 
-[31 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>]
-<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=481, 1165.35374pt x 726.715pt>
+[36 <./conteudo/4 - ages III/conteudo/figures/EquipeSeDoceFosse.jpg (PNG copy)>]
+<conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png, id=529, 1165.35374pt x 726.715pt>
 File: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png Graphic file (type png)
 <use conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 283.88342pt.
- [32]
+ [37]
 Package acronym Info: Label `acro:scss' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
 Package acronym Info: Label `acro:aws' newly defined as it shall be overridden
@@ -1312,98 +1352,98 @@ Package acronym Info: Label `acro:ssltls' newly defined as it shall be overridde
 although it is yet undefined on input line 25.
 Package acronym Info: Label `acro:s3' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
- [33 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
-<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=510, 1322.69156pt x 346.29375pt>
+ [38 <./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png>]
+<conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png, id=557, 1322.69156pt x 346.29375pt>
 File: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png Graphic file (type png)
 <use conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png  used on input line 31.
 (pdftex.def)             Requested size: 455.24411pt x 119.18613pt.
-<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=511, 1485.55pt x 1408.26125pt>
+<conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg, id=558, 1485.55pt x 1408.26125pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 431.5497pt.
- [34 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
-<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=518, 1485.55pt x 1520.68124pt>
+ [39 <./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png>]
+<conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg, id=565, 1485.55pt x 1520.68124pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 465.99986pt.
- [35 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=523, 1927.2pt x 1084.05pt>
+ [40 <./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg, id=570, 1927.2pt x 1084.05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg  used on input line 61.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [36 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
-<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=529, 1927.2pt x 1084.05pt>
+ [41 <./conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg>]
+<conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg, id=575, 1927.2pt x 1084.05pt>
 File: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg Graphic file (type jpg)
 <use conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg>
 Package pdftex.def Info: conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg  used on input line 70.
 (pdftex.def)             Requested size: 455.24411pt x 256.07509pt.
- [37 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (./conteudo/4 - ages III/conteudo/3 - atividades.tex (./conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [38]) (./conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [39]) (./conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [40]) (./conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [41]) (./conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [42]
+ [42 <./conteudo/4 - ages III/conteudo/figures/FigmaPedidosAdmin.jpg> <./conteudo/4 - ages III/conteudo/figures/FigmaAdmin.jpg>]) (./conteudo/4 - ages III/conteudo/3 - atividades.tex (./conteudo/4 - ages III/conteudo/sprints/sprint 0.tex [43]) (./conteudo/4 - ages III/conteudo/sprints/sprint 1.tex [44]) (./conteudo/4 - ages III/conteudo/sprints/sprint 2.tex [45]) (./conteudo/4 - ages III/conteudo/sprints/sprint 3.tex [46]) (./conteudo/4 - ages III/conteudo/sprints/sprint 4.tex [47]
 Package acronym Info: Label `acro:cors' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:ip' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
-)) (./conteudo/4 - ages III/conteudo/4 - conclusao.tex [43])) [44] [45]
+)) (./conteudo/4 - ages III/conteudo/4 - conclusao.tex [48])) [49] [50]
 \openout2 = `"conteudo/5 - ages IV/index.aux"'.
 
  (./conteudo/5 - ages IV/index.tex
 Cap\'{\i }tulo 5.
 (./conteudo/5 - ages IV/conteudo/1 - introducao.tex
-<conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg, id=603, 2168.1pt x 2890.8pt>
+<conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg, id=651, 2168.1pt x 2890.8pt>
 File: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg Graphic file (type jpg)
 <use conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg  used on input line 13.
 (pdftex.def)             Requested size: 455.24411pt x 606.9536pt.
-) (./conteudo/5 - ages IV/conteudo/2 - desenvolvimento.tex [46
+) (./conteudo/5 - ages IV/conteudo/2 - desenvolvimento.tex [51
 
 
 
 
-] [47 <./conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>]
-<conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png, id=618, 615.29875pt x 597.23125pt>
+] [52 <./conteudo/5 - ages IV/conteudo/figures/EquipeUmaPortoAlegreAlema.jpg>]
+<conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png, id=665, 615.29875pt x 597.23125pt>
 File: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png  used on input line 22.
 (pdftex.def)             Requested size: 455.24411pt x 441.8804pt.
- [48]
+ [53]
 Package acronym Info: Label `acro:ecs' newly defined as it shall be overridden
 although it is yet undefined on input line 29.
- [49 <./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png>]
-<conteudo/5 - ages IV/conteudo/figures/LandingPage.png, id=661, 402.50375pt x 1500.60625pt>
+ [54 <./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png>]
+<conteudo/5 - ages IV/conteudo/figures/LandingPage.png, id=708, 402.50375pt x 1500.60625pt>
 File: conteudo/5 - ages IV/conteudo/figures/LandingPage.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/LandingPage.png>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/LandingPage.png  used on input line 42.
 (pdftex.def)             Requested size: 141.38203pt x 527.09764pt.
- [50]
-<conteudo/5 - ages IV/conteudo/figures/Mapa.png, id=669, 403.5075pt x 877.2775pt>
+ [55]
+<conteudo/5 - ages IV/conteudo/figures/Mapa.png, id=716, 403.5075pt x 877.2775pt>
 File: conteudo/5 - ages IV/conteudo/figures/Mapa.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/Mapa.png>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/Mapa.png  used on input line 52.
 (pdftex.def)             Requested size: 227.62505pt x 494.88632pt.
- [51 <./conteudo/5 - ages IV/conteudo/figures/LandingPage.png>]
-<conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg, id=675, 461.725pt x 940.51375pt>
+ [56 <./conteudo/5 - ages IV/conteudo/figures/LandingPage.png>]
+<conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg, id=722, 461.725pt x 940.51375pt>
 File: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg Graphic file (type jpg)
 <use conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg  used on input line 62.
 (pdftex.def)             Requested size: 227.62108pt x 463.65424pt.
- [52 <./conteudo/5 - ages IV/conteudo/figures/Mapa.png>]
-<conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png, id=681, 402.50375pt x 1221.56375pt>
+ [57 <./conteudo/5 - ages IV/conteudo/figures/Mapa.png>]
+<conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png, id=728, 402.50375pt x 1221.56375pt>
 File: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png Graphic file (type png)
 <use conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>
 Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png  used on input line 72.
 (pdftex.def)             Requested size: 173.68126pt x 527.1075pt.
- [53 <./conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>]
+ [58 <./conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>]
 Package acronym Info: Label `acro:cms' newly defined as it shall be overridden
 although it is yet undefined on input line 81.
- [54 <./conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages IV/conteudo/3 - atividades.tex (./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [55]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [56]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [57])) (./conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [58]
+ [59 <./conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages IV/conteudo/3 - atividades.tex (./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [60]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [61]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [62])) (./conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [63]
 \openout2 = `"conteudo/6 - consideracoes/consideracoes.aux"'.
 
  (./conteudo/6 - consideracoes/consideracoes.tex
 Cap\'{\i }tulo 6.
-) [59
+) [64
 
 
 
@@ -1411,15 +1451,15 @@ Cap\'{\i }tulo 6.
 ]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (./conteudo/7 - pos/referencias.tex [60
+ (./conteudo/7 - pos/referencias.tex [65
 
 
 
 
-{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [61]
+{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [66]
 \openout2 = `"conteudo/8 - apendices/apendices.aux"'.
 
- (./conteudo/8 - apendices/apendices.tex) [62
+ (./conteudo/8 - apendices/apendices.tex) [67
 
 
 
@@ -1448,18 +1488,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26963 strings out of 467525
- 496070 string characters out of 5418982
- 1463793 words of memory out of 5000000
- 55107 multiletter control sequences out of 15000+600000
+ 27031 strings out of 467525
+ 499757 string characters out of 5418982
+ 1464217 words of memory out of 5000000
+ 55163 multiletter control sequences out of 15000+600000
  649293 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1794b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (63 pages, 10924525 bytes).
+Output written on main.pdf (68 pages, 11894130 bytes).
 PDF statistics:
- 930 PDF objects out of 1000 (max. 8388607)
- 822 compressed objects within 9 object streams
- 237 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 979 PDF objects out of 1000 (max. 8388607)
+ 852 compressed objects within 9 object streams
+ 249 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 

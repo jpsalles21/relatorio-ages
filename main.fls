@@ -449,11 +449,26 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-onboarding-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/mockup-tela-instituicao-agesI.png
 INPUT ./conteudo/2 - ages I/conteudo/3 - atividades.tex
 INPUT ./conteudo/2 - ages I/conteudo/3 - atividades.tex
 INPUT ./conteudo/2 - ages I/conteudo/3 - atividades.tex
@@ -515,11 +530,31 @@ INPUT ./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex
 INPUT ./conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex
 INPUT conteudo/3 - ages II/conteudo/2 - desenvolvimento.tex
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/helvetic/phvr8c.vf
+INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-estudos-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/mockup-telapacientes-agesII.png
 INPUT ./conteudo/3 - ages II/conteudo/3 - atividades.tex
 INPUT ./conteudo/3 - ages II/conteudo/3 - atividades.tex
 INPUT ./conteudo/3 - ages II/conteudo/3 - atividades.tex
