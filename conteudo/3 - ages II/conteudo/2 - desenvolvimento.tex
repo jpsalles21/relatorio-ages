@@ -1,16 +1,7 @@
 \section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
 
 \subsection{Repositório do Código Fonte do Projeto}
-  Os repositório foram divididos entre web-medico, web-site, web-administrador,
-api-medico, api-administrador, auth, infra e wiki.
-
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{\textit{web-site}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{\textit{web-medico}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{\textit{web-administrador}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{\textit{api-medico}}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{\textit{auth}}
-\par Repositório para \href{https://tools.ages.pucrs.br/let-me-trial/infra}{\textit{infra}}
-\par Repositório para a \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{\textit{wiki}}
+  Os repositórios foram divididos entre \href{https://tools.ages.pucrs.br/let-me-trial/webmedico}{\textit{web-medico}}, \href{https://tools.ages.pucrs.br/let-me-trial/web-site}{\textit{web-site}}, \href{https://tools.ages.pucrs.br/let-me-trial/webadministrador}{\textit{web-administrador}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-medico}{\textit{api-medico}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-administrador}{\textit{api-administrador}}, \href{https://tools.ages.pucrs.br/let-me-trial/api-auth}{\textit{auth}}, \href{https://tools.ages.pucrs.br/let-me-trial/infra}{\textit{infra}} e \href{https://tools.ages.pucrs.br/let-me-trial/wiki}{\textit{wiki}}.
 
 \subsection{Banco de Dados Utilizado}
 No banco de dados, o projeto utilizou PostgreSQL \cite{postgresql}, escolhido por ser um banco relacional robusto e adequado para representar entidades com relacionamentos claros. Diferente da minha experiência na AGES I, em que eu tive pouco contato com a persistência, na AGES II precisei entender melhor como os dados se relacionavam, porque o filtro de estudos e o cadastro de pacientes dependiam diretamente dessas informações.
@@ -27,16 +18,15 @@ As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, 
 \end{figure}
 
 \subsection{Arquitetura Utilizada}
- No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
+No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
 de design de software que divide o sistema em três partes principais:
-Domínio: o coração do sistema, onde estão as regras de negócio e entidades
-importantes. Aplicação: coordena as ações do sistema e lida com interações entre o
-domínio e o mundo externo. Adaptadores: conecta o sistema ao mundo externo,
+domínio, aplicação e adaptadores. O domínio é o coração do sistema, onde estão as regras de negócio e entidades
+importantes; a aplicação coordena as ações do sistema e lida com interações entre o
+domínio e o mundo externo; e os adaptadores conectam o sistema ao mundo externo,
 permitindo interações sem que o domínio precise saber dos detalhes técnicos.
 No frontend, utilizamos o núcleo/core e seus submódulos, como core/domain para
 definir as entidades principais da aplicação, como usuários e médicos. O
 core/useCases é essencial para dividir a lógica de negócios em casos de uso
-13
 comuns e específicos para diferentes tipos de usuários, enquanto o
 adapters/presenter nos ajuda a adaptar os dados da lógica de negócios para a
 interface do usuário. Os frameworks/ui são vitais para organizar os componentes e

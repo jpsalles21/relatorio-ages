@@ -2,7 +2,7 @@ PWD /Users/jpsalles/AGES/Relatorio/relatorio-ages
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/jpsalles/AGES/Relatorio/relatorio-ages/main.tex
+INPUT main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/abntex2/abntex2.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/abntex2/abntex2.cls
@@ -702,6 +702,11 @@ INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.p
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png

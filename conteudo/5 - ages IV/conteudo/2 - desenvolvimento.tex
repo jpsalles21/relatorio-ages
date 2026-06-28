@@ -1,14 +1,9 @@
 \section[Desenvolvimento do Projeto]{Desenvolvimento do Projeto}
 
 \subsection{Repositório do Código Fonte do Projeto}
-  No projeto, organizamos os materiais em repositórios separados para \textit{frontend}, \textit{backend} e \textit{wiki}, o que facilitou bastante o acompanhamento das entregas e a divisão das responsabilidades entre os times. Na \textit{wiki}, centralizamos os links e a documentação principal para manter o contexto técnico acessível para todos, incluindo decisões de arquitetura, organização das tarefas e alinhamentos com os clientes.
+  No projeto, organizamos os materiais em repositórios separados para \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/frontend}{\textit{frontend}}, \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/backend}{\textit{backend}} e \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/wiki}{\textit{wiki}}, o que facilitou bastante o acompanhamento das entregas e a divisão das responsabilidades entre os times. Na \textit{wiki}, centralizamos os links e a documentação principal para manter o contexto técnico acessível para todos, incluindo decisões de arquitetura, organização das tarefas e alinhamentos com os clientes.
 
   Também estruturamos o trabalho com foco em rastreabilidade, conectando \textit{user stories}, tarefas técnicas e entregas por sprint. Essa organização foi importante para eu conseguir acompanhar o que estava pendente no painel administrativo, no gerenciamento das edificações e nos fluxos ligados a idiomas e mídias, sem perder a visão do produto como um todo. Para isso, utilizamos o \textit{board} do GitHub Projects.
-  Os repositórios estão em: 
-
-\par Repositório para o \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/frontend}{\textit{frontend}}
-\par Repositório para o \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/backend}{\textit{backend}}
-\par Repositório para a \href{https://tools.ages.pucrs.br/uma-porto-alegre-alem/wiki}{\textit{wiki}}
 
 \subsection{Banco de Dados Utilizado}
   O banco de dados principal escolhido para o projeto foi o MongoDB Atlas \cite{mongodbatlas}. A decisão fez sentido para o nosso contexto porque o produto precisa lidar com conteúdos variados e com possibilidade de evolução frequente, como informações de edificações, materiais multimídia e dados administrativos.
@@ -30,7 +25,17 @@
 
   Na camada de dados e arquivos, utilizamos MongoDB Atlas para persistência principal e Amazon \ac{s3} \cite{awss3} para armazenamento de imagens, áudios e documentos. Para proteger informações sensíveis, como credenciais e chaves, utilizamos \ac{aws} Secrets Manager \cite{awssecretsmanager}. Esse desenho trouxe um bom equilíbrio entre simplicidade, segurança e escalabilidade, além de facilitar a evolução da plataforma conforme novas demandas do projeto cultural surgirem.
 
-  Em termos de fluxo, o usuário acessa o \textit{frontend} no navegador, que envia requisições para a \ac{api}. O \textit{backend} processa essas requisições e, quando necessário, consulta o MongoDB, manipula arquivos no \ac{s3} e busca segredos no Secrets Manager. Depois disso, a resposta retorna ao \textit{frontend} para exibição ao usuário final. A solução final ainda não está implementada, então seguimos com a arquitetura planejada para garantir que o desenvolvimento fique alinhado com as necessidades do projeto e dos \textit{stakeholders}.
+  Em termos de fluxo, o usuário acessa o \textit{frontend} no navegador, que envia requisições para a \ac{api}. O \textit{backend} processa essas requisições e, quando necessário, consulta o MongoDB, manipula arquivos no \ac{s3} e busca segredos no Secrets Manager. Depois disso, a resposta retorna ao \textit{frontend} para exibição ao usuário final. A Figura~\ref{fig:arquitetura-ages-iv} apresenta a organização planejada para essa arquitetura. A solução final ainda não está implementada, então seguimos com a arquitetura planejada para garantir que o desenvolvimento fique alinhado com as necessidades do projeto e dos \textit{stakeholders}.
+
+\begin{figure}[H]
+    \centering
+    \small
+    \caption{Arquitetura do Projeto}
+    \includegraphics[width=1\linewidth]{conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg}
+
+    Fonte: documentação do projeto
+    \label{fig:arquitetura-ages-iv}
+\end{figure}
 
 \subsection{Protótipos das Telas Desenvolvidas}
   Os protótipos foram desenvolvidos no Figma \cite{figma} e foram parte crucial para alinhar a visão do produto entre os \textit{stakeholders} e o time de desenvolvimento. Eles ajudaram a definir a estrutura das páginas, a navegação e a organização dos conteúdos, além de facilitar o \textit{feedback} e as iterações durante o processo de design. A seguir, apresentamos exemplos de protótipo para ilustrar a proposta visual do \textit{website}:
