@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  27 JUN 2026 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.19)  28 JUN 2026 00:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1438,28 +1438,28 @@ Package pdftex.def Info: conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoe
  [58 <./conteudo/5 - ages IV/conteudo/figures/DetalheNoMapa.jpg>]
 Package acronym Info: Label `acro:cms' newly defined as it shall be overridden
 although it is yet undefined on input line 81.
- [59 <./conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages IV/conteudo/3 - atividades.tex (./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [60]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [61]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex) (./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [62])) (./conteudo/5 - ages IV/conteudo/4 - conclusao.tex)) [63]
+ [59 <./conteudo/5 - ages IV/conteudo/figures/DetalheEdificacoes.png>]) (./conteudo/5 - ages IV/conteudo/3 - atividades.tex (./conteudo/5 - ages IV/conteudo/sprints/sprint 0.tex [60]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 1.tex [61]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 2.tex [62]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 3.tex [63] [64]) (./conteudo/5 - ages IV/conteudo/sprints/sprint 4.tex [65])) (./conteudo/5 - ages IV/conteudo/4 - conclusao.tex [66])) [67]
 \openout2 = `"conteudo/6 - consideracoes/consideracoes.aux"'.
 
  (./conteudo/6 - consideracoes/consideracoes.tex
 Cap\'{\i }tulo 6.
-) [64
+[68
 
 
 
 
-]
+]) [69]
 \openout2 = `"conteudo/7 - pos/referencias.aux"'.
 
- (./conteudo/7 - pos/referencias.tex [65
+ (./conteudo/7 - pos/referencias.tex [70
 
 
 
 
-{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [66]
+{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [71]
 \openout2 = `"conteudo/8 - apendices/apendices.aux"'.
 
- (./conteudo/8 - apendices/apendices.tex) [67
+ (./conteudo/8 - apendices/apendices.tex) [72
 
 
 
@@ -1488,18 +1488,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27031 strings out of 467525
- 499757 string characters out of 5418982
- 1464217 words of memory out of 5000000
- 55163 multiletter control sequences out of 15000+600000
+ 27032 strings out of 467525
+ 499698 string characters out of 5418982
+ 1463217 words of memory out of 5000000
+ 55159 multiletter control sequences out of 15000+600000
  649293 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,12n,107p,1794b,4312s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (68 pages, 11894130 bytes).
+Output written on main.pdf (73 pages, 11906978 bytes).
 PDF statistics:
- 979 PDF objects out of 1000 (max. 8388607)
- 852 compressed objects within 9 object streams
- 249 named destinations out of 1000 (max. 500000)
+ 1003 PDF objects out of 1200 (max. 8388607)
+ 871 compressed objects within 9 object streams
+ 254 named destinations out of 1000 (max. 500000)
  337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
