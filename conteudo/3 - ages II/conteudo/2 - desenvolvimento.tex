@@ -8,11 +8,13 @@ No banco de dados, o projeto utilizou PostgreSQL \cite{postgresql}, escolhido po
 
 As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, \textit{Estudo}, \textit{Criterio}, \textit{CriterioEstudo} e \textit{Resposta}. A entidade \textit{Paciente} armazenava os dados necessários para a triagem; \textit{Medico} representava o profissional que utilizaria a plataforma; \textit{Area} organizava as subáreas dos estudos; \textit{Estudo} concentrava as informações dos ensaios clínicos; \textit{Criterio} guardava as perguntas ou condições avaliadas; \textit{CriterioEstudo} fazia a relação entre um estudo e seus critérios, indicando resposta esperada e se o critério era opcional; e \textit{Resposta} registrava a resposta de um paciente para determinado critério.
 
+\enlargethispage{2\baselineskip}
 \begin{figure}[H]
     \centering
     \small
     \caption{Modelagem do banco de dados}
-    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/bd-agesII.png}
+    \vspace{-0.5em}
+    \includegraphics[height=0.29\textheight,keepaspectratio]{conteudo/3 - ages II/conteudo/figures/bd-agesII.png}\\[-0.2em]
     Fonte: documentação do projeto
     \label{fig:ages-ii-banco}
 \end{figure}

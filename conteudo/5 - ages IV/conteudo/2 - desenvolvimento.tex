@@ -10,11 +10,13 @@
 
   Como o MongoDB Atlas é um serviço gerenciado, ele também ajudou a reduzir esforço operacional com manutenção, backup e disponibilidade. Na prática, isso nos permitiu focar mais na modelagem dos dados e nas regras de negócio do sistema, em vez de gastar energia com configuração de infraestrutura de banco do zero.
 
+\enlargethispage{3\baselineskip}
 \begin{figure}[H]
     \centering
     \small
     \caption{Diagrama do Banco de Dados}
-    \includegraphics[width=1\linewidth]{conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png}
+    \vspace{-0.5em}
+    \includegraphics[trim=20 60 20 60,clip,height=0.30\textheight,keepaspectratio]{conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png}\\[-0.2em]
 
     Fonte: Diagrama feito pelos AGES II.
     \label{fig:diagrama-banco-uma-porto-alegre-alema}
@@ -27,11 +29,13 @@
 
   Em termos de fluxo, o usuário acessava o \textit{frontend} no navegador, que enviava requisições para a \ac{api}. O \textit{backend} processava essas requisições e, quando necessário, consultava o MongoDB, manipulava arquivos no \ac{s3} e buscava segredos no Secrets Manager. Depois disso, a resposta retornava ao \textit{frontend} para exibição ao usuário final. A Figura~\ref{fig:arquitetura-ages-iv} registrou a organização planejada para essa arquitetura. Como a solução final ainda não estava implementada naquele momento, seguimos com a arquitetura planejada para garantir que o desenvolvimento ficasse alinhado com as necessidades do projeto e dos \textit{stakeholders}.
 
+\enlargethispage{3\baselineskip}
 \begin{figure}[H]
     \centering
     \small
     \caption{Diagrama C4 de contêineres do projeto - AGES IV}
-    \includegraphics[width=1\linewidth]{conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf}
+    \vspace{-0.5em}
+    \includegraphics[height=0.28\textheight,keepaspectratio]{conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf}\\[-0.2em]
 
     Fonte: Elaborado pelo autor com base na documentação do projeto
     \label{fig:arquitetura-ages-iv}
@@ -40,11 +44,13 @@
 \subsection{Protótipos das Telas Desenvolvidas}
   Os protótipos foram desenvolvidos no Figma \cite{figma} e foram parte crucial para alinhar a visão do produto entre os \textit{stakeholders} e o time de desenvolvimento. Eles ajudaram a definir a estrutura das páginas, a navegação e a organização dos conteúdos, além de facilitar o \textit{feedback} e as iterações durante o processo de design. A seguir, foram registrados exemplos de protótipo que ilustraram a proposta visual do \textit{website}:
 
+\enlargethispage{2\baselineskip}
 \begin{figure}[H]
     \centering
     \small
     \caption{Protótipo no Figma - Landing Page}
-    \includegraphics[width=0.50\linewidth,height=0.75\textheight,keepaspectratio]{conteudo/5 - ages IV/conteudo/figures/LandingPage.png}
+    \vspace{-0.5em}
+    \includegraphics[height=0.56\textheight,keepaspectratio]{conteudo/5 - ages IV/conteudo/figures/LandingPage.png}\\[-0.2em]
 
     Fonte: Figma do projeto
     \label{fig:figma-landing-ages-iv}

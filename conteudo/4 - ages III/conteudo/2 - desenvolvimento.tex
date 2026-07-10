@@ -8,11 +8,13 @@ Os repositórios foram definidos em três frentes principais: \href{https://tool
 \subsection{Banco de Dados Utilizado}
 No desenvolvimento do sistema, optou-se por uma abordagem dupla de bancos de dados, utilizando o PostgreSQL e o MongoDB, cada um desempenhando papéis complementares. O PostgreSQL \cite{postgresql}, banco de dados relacional amplamente reconhecido por sua robustez e confiabilidade, foi empregado para armazenar informações que exigem alta integridade e consistência, como dados de usuários, controle de estoque e histórico de pedidos. Já o MongoDB \cite{mongodb}, banco de dados não relacional orientado a documentos, foi escolhido para gerenciar elementos mais dinâmicos, como o carrinho de compras e listas temporárias, permitindo maior flexibilidade na estruturação e manipulação dessas informações. Essa combinação possibilita um equilíbrio entre desempenho, escalabilidade e integridade, explorando as vantagens específicas de cada tecnologia.
   
+\enlargethispage{3\baselineskip}
 \begin{figure}[H]
     \centering
     \small
     \caption{Banco de Dados}
-    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png}
+    \vspace{-0.5em}
+    \includegraphics[height=0.27\textheight,keepaspectratio]{conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png}\\[-0.2em]
     Fonte: Wiki do Projeto
     \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
@@ -21,11 +23,13 @@ No desenvolvimento do sistema, optou-se por uma abordagem dupla de bancos de dad
 \subsection{Arquitetura Utilizada}
 No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture}) para o desenvolvimento do backend, implementado em Java \cite{java} com o framework Spring Boot \cite{springboot}. Essa organização separava claramente as responsabilidades entre as camadas de apresentação, serviços, repositórios e entidades, promovendo maior manutenibilidade, testabilidade e clareza no fluxo de dados. No frontend, foi utilizada a biblioteca React \cite{react}, estruturada de forma modular, permitindo o reaproveitamento de componentes e a escalabilidade da aplicação. Para o estilo, optou-se pelo uso de \ac{scss} Modules, que garantiam isolamento de escopo e facilitavam a manutenção visual da interface, contribuindo para uma organização consistente entre lógica, apresentação e estilos em toda a aplicação. Na parte de Infraestrutura, utilizamos a \ac{aws} \cite{aws} para hospedar a aplicação, criando uma \ac{ec2} para o frontend, uma para o backend junto dos bancos de dados. O frontend utilizava \ac{nginx} para servir arquivos estáticos, atuar como reverse proxy para o backend, realizar terminação \ac{ssltls}, fazer cache e compressão, e gerenciar balanceamento de carga quando necessário, garantindo desempenho e segurança. Para hospedar imagens, utilizamos o Amazon \ac{s3}, que oferecia armazenamento escalável e seguro para os arquivos estáticos do projeto, como imagens de produtos. Também utilizamos o GitHub Actions para realizar o \ac{cicd} do projeto, automatizando os processos de build e testes.
 
-    \begin{figure}[H]
+\enlargethispage{3\baselineskip}
+\begin{figure}[H]
     \centering
     \small
     \caption{Diagrama C4 de contêineres do projeto - AGES III}
-    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf}
+    \vspace{-0.5em}
+    \includegraphics[height=0.28\textheight,keepaspectratio]{conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf}\\[-0.2em]
     Fonte: Elaborado pelo autor com base na Wiki do Projeto
     \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
@@ -37,7 +41,8 @@ No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture})
     \centering
     \small
     \caption{Protótipo no Figma - Home}
-    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg}
+    \vspace{-0.5em}
+    \includegraphics[height=0.48\textheight,keepaspectratio]{conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg}\\[-0.2em]
     Fonte: Figma do projeto
     \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
@@ -46,7 +51,8 @@ No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture})
    \centering
    \small
    \caption{Protótipo no Figma - Página de Produtos}
-   \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg}
+   \vspace{-0.5em}
+   \includegraphics[height=0.38\textheight,keepaspectratio]{conteudo/4 - ages III/conteudo/figures/FigmaProdutos.jpg}\\[-0.2em]
    Fonte: Figma do Projeto
    \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
