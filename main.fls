@@ -1,8 +1,8 @@
-PWD /Users/jpsalles/AGES/Relatorio/relatorio-ages
+PWD /Users/salles/Projects/Relatorio/relatorio-ages
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/jpsalles/AGES/Relatorio/relatorio-ages/main.tex
+INPUT /Users/salles/Projects/Relatorio/relatorio-ages/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/abntex2/abntex2.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/abntex2/abntex2.cls
@@ -229,9 +229,6 @@ INPUT conteudo/0 - pre/0.5 - resumo.aux
 INPUT ./conteudo/0 - pre/0.6 - ilustracoes.aux
 INPUT ./conteudo/0 - pre/0.6 - ilustracoes.aux
 INPUT conteudo/0 - pre/0.6 - ilustracoes.aux
-INPUT ./conteudo/0 - pre/0.7 - tabelas.aux
-INPUT ./conteudo/0 - pre/0.7 - tabelas.aux
-INPUT conteudo/0 - pre/0.7 - tabelas.aux
 INPUT ./conteudo/0 - pre/0.8 - siglas.aux
 INPUT ./conteudo/0 - pre/0.8 - siglas.aux
 INPUT conteudo/0 - pre/0.8 - siglas.aux
@@ -259,9 +256,6 @@ INPUT conteudo/6 - consideracoes/consideracoes.aux
 INPUT ./conteudo/7 - pos/referencias.aux
 INPUT ./conteudo/7 - pos/referencias.aux
 INPUT conteudo/7 - pos/referencias.aux
-INPUT ./conteudo/8 - apendices/apendices.aux
-INPUT ./conteudo/8 - apendices/apendices.aux
-INPUT conteudo/8 - apendices/apendices.aux
 OUTPUT main.aux
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
@@ -389,15 +383,6 @@ INPUT conteudo/0 - pre/0.6 - ilustracoes.tex
 INPUT ./main.lof
 INPUT ./main.lof
 INPUT main.lof
-INPUT ./conteudo/0 - pre/0.7 - tabelas.tex
-OUTPUT conteudo/0 - pre/0.7 - tabelas.aux
-INPUT ./conteudo/0 - pre/0.7 - tabelas.tex
-INPUT ./conteudo/0 - pre/0.7 - tabelas.tex
-INPUT ./conteudo/0 - pre/0.7 - tabelas.tex
-INPUT conteudo/0 - pre/0.7 - tabelas.tex
-INPUT ./main.lot
-INPUT ./main.lot
-INPUT main.lot
 INPUT ./conteudo/0 - pre/0.8 - siglas.tex
 OUTPUT conteudo/0 - pre/0.8 - siglas.aux
 INPUT ./conteudo/0 - pre/0.8 - siglas.tex
@@ -449,11 +434,11 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/helvetic/phvb8t.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
-INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
-INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
-INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
-INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
-INPUT ./conteudo/2 - ages I/conteudo/figures/arquiteturaages1.png
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquitetura-c4-containers-agesI.pdf
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquitetura-c4-containers-agesI.pdf
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquitetura-c4-containers-agesI.pdf
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquitetura-c4-containers-agesI.pdf
+INPUT ./conteudo/2 - ages I/conteudo/figures/arquitetura-c4-containers-agesI.pdf
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
 INPUT ./conteudo/2 - ages I/conteudo/figures/figma1.png
@@ -535,11 +520,11 @@ INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/bd-agesII.png
-INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
-INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
-INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
-INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
-INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf
+INPUT ./conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
 INPUT ./conteudo/3 - ages II/conteudo/figures/figma2.png
@@ -616,11 +601,11 @@ INPUT ./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png
 INPUT ./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png
 INPUT ./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png
 INPUT ./conteudo/4 - ages III/conteudo/figures/BD_SeDosseFosse.png
-INPUT ./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png
-INPUT ./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png
-INPUT ./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png
-INPUT ./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png
-INPUT ./conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png
+INPUT ./conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf
+INPUT ./conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf
+INPUT ./conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf
+INPUT ./conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf
+INPUT ./conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf
 INPUT ./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg
 INPUT ./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg
 INPUT ./conteudo/4 - ages III/conteudo/figures/FigmaAgesIII.jpg
@@ -702,11 +687,11 @@ INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.p
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/DiagramaBancoUmaPortoAlegreAlema.png
-INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
-INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
-INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
-INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
-INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-agesIV.jpeg
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf
+INPUT ./conteudo/5 - ages IV/conteudo/figures/arquitetura-c4-containers-agesIV.pdf
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png
 INPUT ./conteudo/5 - ages IV/conteudo/figures/LandingPage.png
@@ -776,14 +761,7 @@ INPUT ./conteudo/7 - pos/referencias.tex
 INPUT conteudo/7 - pos/referencias.tex
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
-INPUT ./conteudo/8 - apendices/apendices.tex
-INPUT ./conteudo/8 - apendices/apendices.tex
-OUTPUT conteudo/8 - apendices/apendices.aux
-INPUT ./conteudo/8 - apendices/apendices.tex
-INPUT ./conteudo/8 - apendices/apendices.tex
-INPUT conteudo/8 - apendices/apendices.tex
 OUTPUT main.lof
-OUTPUT main.lot
 OUTPUT main.toc
 INPUT main.aux
 INPUT ./conteudo/0 - pre/0.1 - capa.aux
@@ -804,9 +782,6 @@ INPUT conteudo/0 - pre/0.5 - resumo.aux
 INPUT ./conteudo/0 - pre/0.6 - ilustracoes.aux
 INPUT ./conteudo/0 - pre/0.6 - ilustracoes.aux
 INPUT conteudo/0 - pre/0.6 - ilustracoes.aux
-INPUT ./conteudo/0 - pre/0.7 - tabelas.aux
-INPUT ./conteudo/0 - pre/0.7 - tabelas.aux
-INPUT conteudo/0 - pre/0.7 - tabelas.aux
 INPUT ./conteudo/0 - pre/0.8 - siglas.aux
 INPUT ./conteudo/0 - pre/0.8 - siglas.aux
 INPUT conteudo/0 - pre/0.8 - siglas.aux
@@ -834,9 +809,6 @@ INPUT conteudo/6 - consideracoes/consideracoes.aux
 INPUT ./conteudo/7 - pos/referencias.aux
 INPUT ./conteudo/7 - pos/referencias.aux
 INPUT conteudo/7 - pos/referencias.aux
-INPUT ./conteudo/8 - apendices/apendices.aux
-INPUT ./conteudo/8 - apendices/apendices.aux
-INPUT conteudo/8 - apendices/apendices.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

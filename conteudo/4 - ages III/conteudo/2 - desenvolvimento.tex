@@ -19,20 +19,20 @@ No desenvolvimento do sistema, optou-se por uma abordagem dupla de bancos de dad
 
 
 \subsection{Arquitetura Utilizada}
-No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture}) para o desenvolvimento do backend, implementado em Java \cite{java} com o framework Spring Boot \cite{springboot}. Essa organização separa claramente as responsabilidades entre as camadas de apresentação, serviços, repositórios e entidades, promovendo maior manutenibilidade, testabilidade e clareza no fluxo de dados. No frontend, foi utilizada a biblioteca React \cite{react}, estruturada de forma modular, permitindo o reaproveitamento de componentes e a escalabilidade da aplicação. Para o estilo, optou-se pelo uso de \ac{scss} Modules, que garantem isolamento de escopo e facilitam a manutenção visual da interface, contribuindo para uma organização consistente entre lógica, apresentação e estilos em toda a aplicação. Na parte de Infraestrutura, utilizamos a \ac{aws} \cite{aws} para hospedar a aplicação, criando uma \ac{ec2} para o frontend, uma para o backend junto dos bancos de dados. O frontend utiliza \ac{nginx} para servir arquivos estáticos, atuar como reverse proxy para o backend, realizar terminação \ac{ssltls}, fazer cache e compressão, e gerenciar balanceamento de carga quando necessário, garantindo desempenho e segurança. Para hospedar imagens, utilizamos o Amazon \ac{s3}, que oferece armazenamento escalável e seguro para os arquivos estáticos do projeto, como imagens de produtos. Também utilizamos o GitHub Actions para realizar o \ac{cicd} do projeto, automatizando os processos de build e testes.
+No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture}) para o desenvolvimento do backend, implementado em Java \cite{java} com o framework Spring Boot \cite{springboot}. Essa organização separava claramente as responsabilidades entre as camadas de apresentação, serviços, repositórios e entidades, promovendo maior manutenibilidade, testabilidade e clareza no fluxo de dados. No frontend, foi utilizada a biblioteca React \cite{react}, estruturada de forma modular, permitindo o reaproveitamento de componentes e a escalabilidade da aplicação. Para o estilo, optou-se pelo uso de \ac{scss} Modules, que garantiam isolamento de escopo e facilitavam a manutenção visual da interface, contribuindo para uma organização consistente entre lógica, apresentação e estilos em toda a aplicação. Na parte de Infraestrutura, utilizamos a \ac{aws} \cite{aws} para hospedar a aplicação, criando uma \ac{ec2} para o frontend, uma para o backend junto dos bancos de dados. O frontend utilizava \ac{nginx} para servir arquivos estáticos, atuar como reverse proxy para o backend, realizar terminação \ac{ssltls}, fazer cache e compressão, e gerenciar balanceamento de carga quando necessário, garantindo desempenho e segurança. Para hospedar imagens, utilizamos o Amazon \ac{s3}, que oferecia armazenamento escalável e seguro para os arquivos estáticos do projeto, como imagens de produtos. Também utilizamos o GitHub Actions para realizar o \ac{cicd} do projeto, automatizando os processos de build e testes.
 
     \begin{figure}[H]
     \centering
     \small
-    \caption{Diagrama de Arquitetura}
-    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/diagrama-sedocefosse.png}
-    Fonte: Wiki do Projeto
+    \caption{Diagrama C4 de contêineres do projeto - AGES III}
+    \includegraphics[width=1\linewidth]{conteudo/4 - ages III/conteudo/figures/arquitetura-c4-containers-agesIII.pdf}
+    Fonte: Elaborado pelo autor com base na Wiki do Projeto
     \label{fig:projeto-time-se-doce-fosse}
 \end{figure}
 
   
 \subsection{Protótipos das Telas Desenvolvidas}
-  Na Sprint 0, protótipos de telas foram desenvolvidos e entregues aos clientes. Usamos elas como base para construir o frontend e validar com o clientes, além de auxiliar no backend, para entender quais endpoints seriam necessários. O protótipo foi desenvolvido no Figma, uma ferramenta colaborativa de design de interfaces que permite a criação de protótipos interativos e compartilháveis. A seguir, imagens do protótipo desenvolvido:
+  Na Sprint 0, protótipos de telas foram desenvolvidos e entregues aos clientes. Usamos elas como base para construir o frontend e validar com o clientes, além de auxiliar no backend, para entender quais endpoints seriam necessários. O protótipo foi desenvolvido no Figma, uma ferramenta colaborativa de design de interfaces que permitiu a criação de protótipos interativos e compartilháveis. A seguir, foram registradas imagens do protótipo desenvolvido:
   \begin{figure}[H]
     \centering
     \small
@@ -76,7 +76,7 @@ No projeto, adotou-se uma arquitetura em camadas (\textit{Layered Architecture})
 \subsection{Tecnologias Utilizadas}
   Escolhemos uma stack que equilibra aprendizado e robustez: Java 21 \cite{java} com Spring Boot \cite{springboot} no backend, PostgreSQL \cite{postgresql} para dados relacionais críticos e MongoDB \cite{mongodb} para dados mais flexíveis, e React com TypeScript \cite{react,typescript} no frontend.
 
-Java e Spring Boot foram adotados pela familiaridade dos alunos e pela produtividade na criação de \ac{api}s testáveis. PostgreSQL garante integridade e consultas complexas, enquanto MongoDB facilita dados com esquema variável (ex.: carrinho). React + TypeScript oferece componentes reutilizáveis e verificação de tipos em desenvolvimento. Complementamos com \ac{scss} Modules para estilos, \ac{nginx} para servir o frontend e GitHub Actions para \ac{cicd}. A infraestrutura utiliza \ac{aws} \cite{aws} (\ac{s3} e \ac{ec2}) quando necessário. Essa combinação também expõe os alunos a paradigmas diferentes (relacional e documental) sem aumentar muito a complexidade operacional.
+Java e Spring Boot foram adotados pela familiaridade dos alunos e pela produtividade na criação de \ac{api}s testáveis. PostgreSQL garantia integridade e consultas complexas, enquanto MongoDB facilitava dados com esquema variável (ex.: carrinho). React + TypeScript oferecia componentes reutilizáveis e verificação de tipos em desenvolvimento. Complementamos com \ac{scss} Modules para estilos, \ac{nginx} para servir o frontend e GitHub Actions para \ac{cicd}. A infraestrutura utilizava \ac{aws} \cite{aws} (\ac{s3} e \ac{ec2}) quando necessário. Essa combinação também expôs os alunos a paradigmas diferentes (relacional e documental) sem aumentar muito a complexidade operacional.
 
   Essas escolhas priorizam aprendizado prático e entrega eficiente, evitando complexidade desnecessária ao mesmo tempo em que expõem os alunos a tecnologias e padrões usados em produção. Além disso, priorizamos práticas como testes automatizados e integração contínua para reforçar formação profissional e preparar os alunos para contextos reais de desenvolvimento.
 

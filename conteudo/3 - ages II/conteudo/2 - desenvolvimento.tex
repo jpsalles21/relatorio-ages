@@ -18,35 +18,35 @@ As principais entidades eram \textit{Paciente}, \textit{Medico}, \textit{Area}, 
 \end{figure}
 
 \subsection{Arquitetura Utilizada}
-No backend, estamos utilizando a Arquitetura Hexagonal, que é um modelo
-de design de software que divide o sistema em três partes principais:
-domínio, aplicação e adaptadores. O domínio é o coração do sistema, onde estão as regras de negócio e entidades
-importantes; a aplicação coordena as ações do sistema e lida com interações entre o
-domínio e o mundo externo; e os adaptadores conectam o sistema ao mundo externo,
-permitindo interações sem que o domínio precise saber dos detalhes técnicos.
+No backend, utilizamos a Arquitetura Hexagonal, que foi um modelo
+de design de software que dividiu o sistema em três partes principais:
+domínio, aplicação e adaptadores. O domínio ficou como o coração do sistema, onde estavam as regras de negócio e entidades
+importantes; a aplicação coordenava as ações do sistema e lidava com interações entre o
+domínio e o mundo externo; e os adaptadores conectavam o sistema ao mundo externo,
+permitindo interações sem que o domínio precisasse saber dos detalhes técnicos.
 No frontend, utilizamos o núcleo/core e seus submódulos, como core/domain para
 definir as entidades principais da aplicação, como usuários e médicos. O
-core/useCases é essencial para dividir a lógica de negócios em casos de uso
+core/useCases foi essencial para dividir a lógica de negócios em casos de uso
 comuns e específicos para diferentes tipos de usuários, enquanto o
-adapters/presenter nos ajuda a adaptar os dados da lógica de negócios para a
-interface do usuário. Os frameworks/ui são vitais para organizar os componentes e
-páginas da interface do usuário, enquanto os frameworks/services facilitam a
-comunicação com APIs externas. Por fim, os utils são úteis para funções utilitárias,
+adapters/presenter nos ajudou a adaptar os dados da lógica de negócios para a
+interface do usuário. Os frameworks/ui foram vitais para organizar os componentes e
+páginas da interface do usuário, enquanto os frameworks/services facilitaram a
+comunicação com APIs externas. Por fim, os utils foram úteis para funções utilitárias,
 como autenticação e verificação do tipo de usuário
 
 \begin{figure}[H]
     \centering
     \small
-    \caption{Arquitetura do Projeto}
-    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/arquitetura-agesII.png}
-    Fonte: documentação do projeto
+    \caption{Diagrama C4 de contêineres do projeto - AGES II}
+    \includegraphics[width=1\linewidth]{conteudo/3 - ages II/conteudo/figures/arquitetura-c4-containers-agesII.pdf}
+    Fonte: Elaborado pelo autor com base na documentação do projeto
     \label{fig:ages-ii-arquitetura}
 \end{figure}
 
 \subsection{Protótipos das Telas Desenvolvidas}
 Os protótipos foram desenvolvidos no Figma \cite{figma} e serviram como referência para validar o fluxo com os stakeholders antes de implementar as telas. Eles foram especialmente importantes no início do projeto, quando ainda estávamos discutindo como seria a navegação, como o médico faria a triagem e como os estudos seriam apresentados.
 
-Para mim, os protótipos ajudaram a transformar discussões abstratas em tarefas mais concretas de \textit{frontend}. A Figura~\ref{fig:ages-ii-figma} apresenta um exemplo de protótipo utilizado no projeto.
+Para mim, os protótipos ajudaram a transformar discussões abstratas em tarefas mais concretas de \textit{frontend}. A Figura~\ref{fig:ages-ii-figma} registrou um exemplo de protótipo utilizado no projeto.
 \begin{figure}[H]
     \centering
     \small
